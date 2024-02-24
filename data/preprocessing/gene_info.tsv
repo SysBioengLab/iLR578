@@ -1,0 +1,2486 @@
+	locus_tag	product
+1	Blon_0002	hypothetical protein
+2	Blon_0003	DNA polymerase III, beta subunit (EC 2.7.7.7)
+3	Blon_0004	DNA replication and repair protein RecF
+4	Blon_0005	hypothetical protein
+5	Blon_0006	DNA gyrase subunit B (EC 5.99.1.3)
+6	Blon_0007	DNA gyrase subunit A (EC 5.99.1.3)
+7	Blon_0008	hypothetical protein
+8	Blon_0009	ATPase
+9	Blon_0010	hypothetical protein
+10	Blon_0011	glutamate dehydrogenase (NADP) (EC 1.4.1.4)
+11	Blon_0012	addiction module toxin, RelE/StbE family
+12	Blon_0013	addiction module antitoxin, RelB/DinJ family
+13	Blon_0016	hypothetical protein
+14	Blon_0017	hypothetical protein
+15	Blon_0018	hypothetical protein
+16	Blon_0019	metallophosphoesterase
+17	Blon_0020	phosphonate ABC transporter, inner membrane subunit
+18	Blon_0021	phosphonate ABC transporter, inner membrane subunit
+19	Blon_0022	phosphonate ABC transporter, ATPase subunit
+20	Blon_0023	phosphonate ABC transporter, periplasmic phosphonate-binding protein
+21	Blon_0024	transcriptional regulator, RpiR family
+22	Blon_0025	Haloacid dehalogenase domain protein hydrolase
+23	Blon_0026	ATPase (AAA+ superfamily)-like protein
+24	Blon_0027	protein of unknown function DUF45
+25	Blon_0028	hypothetical protein
+26	Blon_0029	Ferritin, Dps family protein
+27	Blon_0030	protein of unknown function DUF21
+28	Blon_0031	hypothetical protein
+29	Blon_0034	carbonic anhydrase
+30	Blon_0035	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen
+31	Blon_0036	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+32	Blon_0037	major facilitator superfamily MFS_1
+33	Blon_0038	hypothetical protein
+34	Blon_0039	Integrase, catalytic region
+35	Blon_0040	transposase, mutator type
+36	Blon_0041	hypothetical protein
+37	Blon_0042	regulatory protein, LacI
+38	Blon_0043	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+39	Blon_0044	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+40	Blon_0045	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+41	Blon_0046	hypothetical protein
+42	Blon_0047	putative xylan esterase
+43	Blon_0049	hypothetical protein
+44	Blon_0050	hypothetical protein
+45	Blon_0051	putative transcriptional regulator
+46	Blon_0053	extracellular solute-binding protein, family 5
+47	Blon_0054	binding-protein-dependent transport systems inner membrane component
+48	Blon_0055	binding-protein-dependent transport systems inner membrane component
+49	Blon_0056	ABC transporter related
+50	Blon_0057	hypothetical protein
+51	Blon_0058	hypothetical protein
+52	Blon_0059	Phosphoenolpyruvate carboxylase, type 1 (EC 4.1.1.31)
+53	Blon_0060	protein of unknown function DUF1212
+54	Blon_0061	SSS sodium solute transporter superfamily
+55	Blon_0062	hypothetical protein
+56	Blon_0063	Amidohydrolase 3
+57	Blon_0064	tryptophanyl-tRNA synthetase (EC 6.1.1.2)
+58	Blon_0065	hypothetical protein
+59	Blon_0066	two component transcriptional regulator, LuxR family
+60	Blon_0067	hypothetical protein
+61	Blon_0068	major facilitator superfamily MFS_1
+62	Blon_0069	narrowly conserved hypothetical protein
+63	Blon_0070	glycogen/starch/alpha-glucan phosphorylase
+64	Blon_0071	hypothetical protein
+65	Blon_0072	Rhomboid family protein
+66	Blon_0073	protein of unknown function UPF0233
+67	Blon_0074	protein of unknown function DUF881
+68	Blon_0075	sortase family protein
+69	Blon_0076	glutamine amidotransferase of anthranilate synthase
+70	Blon_0077	protein kinase
+71	Blon_0078	protein kinase
+72	Blon_0079	cell elongation-specific peptidoglycan D,D-transpeptidase
+73	Blon_0080	cell elongation-specific peptidoglycan biosynthesis regulator RodA
+74	Blon_0081	protein phosphatase 2C domain protein
+75	Blon_0082	FHA domain containing protein
+76	Blon_0083	FHA domain containing protein
+77	Blon_0084	peptidase S9, prolyl oligopeptidase active site domain protein
+78	Blon_0085	alpha/beta hydrolase fold protein
+79	Blon_0086	protein of unknown function DUF6, transmembrane
+80	Blon_0087	hypothetical protein
+81	Blon_0088	protein of unknown function DUF470
+82	Blon_0089	methionine-R-sulfoxide reductase
+83	Blon_0090	hypothetical protein
+84	Blon_0091	hypothetical protein
+85	Blon_0092	DNA-cytosine methyltransferase
+86	Blon_0093	protein of unknown function DUF74
+87	Blon_0094	Hly-III family protein
+88	Blon_0095	heat shock protein Hsp20
+89	Blon_0096	ThiJ/PfpI domain protein
+90	Blon_0097	hypothetical protein
+91	Blon_0098	hypothetical protein
+92	Blon_0099	hypothetical protein
+93	Blon_0101	tRNA-guanine transglycosylase (EC 2.4.2.29)
+94	Blon_0102	peptidase S1 and S6, chymotrypsin/Hap
+95	Blon_0103	heavy metal translocating P-type ATPase
+96	Blon_0104	urea-binding protein
+97	Blon_0105	urea ABC transporter membrane protein
+98	Blon_0106	urea ABC transporter membrane protein
+99	Blon_0107	urea ABC transporter ATP-binding protein
+100	Blon_0108	urea ABC transporter ATP-binding protein
+101	Blon_0109	high-affinity nickel-transporter
+102	Blon_0110	urease, gamma subunit
+103	Blon_0111	urease, alpha subunit
+104	Blon_0112	UreE urease accessory domain protein
+105	Blon_0113	Urease accessory protein UreF
+106	Blon_0114	urease accessory protein UreG
+107	Blon_0115	Urease accessory protein UreD
+108	Blon_0116	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+109	Blon_0117	Heat shock protein. Metallo peptidase. MEROPS family M48B
+110	Blon_0118	major facilitator superfamily MFS_1
+111	Blon_0119	G/U mismatch-specific uracil-DNA glycosylase (EC 3.2.2.-)
+112	Blon_0120	fructose-bisphosphate aldolase (EC 4.1.2.13)
+113	Blon_0121	hypothetical protein
+114	Blon_0122	hypothetical protein
+115	Blon_0123	Adenylosuccinate synthetase (EC 6.3.4.4)
+116	Blon_0124	Cl- channel, voltage-gated family protein
+117	Blon_0125	Camphor resistance CrcB protein
+118	Blon_0126	Camphor resistance CrcB protein
+119	Blon_0127	transcriptional regulator, LacI family
+120	Blon_0128	Sucrose phosphorylase
+121	Blon_0129	major facilitator superfamily MFS_1
+122	Blon_0130	major facilitator superfamily MFS_1
+123	Blon_0131	ketol-acid reductoisomerase (EC 1.1.1.86)
+124	Blon_0132	cobalt transport protein
+125	Blon_0133	ABC transporter related
+126	Blon_0134	BioY protein
+127	Blon_0135	zinc finger, CHY domain protein
+128	Blon_0136	ketol-acid reductoisomerase (EC 1.1.1.86)
+129	Blon_0137	alpha amylase, catalytic region
+130	Blon_0138	transcriptional regulator, LacI family
+131	Blon_0139	4-alpha-glucanotransferase
+132	Blon_0140	Alkaline phosphatase
+133	Blon_0141	chaperone protein DnaK
+134	Blon_0142	GrpE protein
+135	Blon_0143	heat shock protein DnaJ domain protein
+136	Blon_0144	putative transcriptional regulator, MerR family
+137	Blon_0145	Xanthine/uracil/vitamin C permease
+138	Blon_0146	putative acyl protein synthase/acyl-CoA reductase-like protein
+139	Blon_0147	acyl-CoA reductase
+140	Blon_0148	short-chain dehydrogenase/reductase SDR
+141	Blon_0149	HAD-superfamily hydrolase, subfamily IA, variant 3
+142	Blon_0150	DedA integral membrane protein
+143	Blon_0151	hypothetical protein
+144	Blon_0152	type II secretion system protein E
+145	Blon_0153	tight adherence protein B
+146	Blon_0154	conserved hypothetical membrane protein with unknown function
+147	Blon_0155	hypothetical protein
+148	Blon_0156	TadE family protein
+149	Blon_0157	hypothetical protein
+150	Blon_0158	diacylglycerol kinase, catalytic region
+151	Blon_0159	transcriptional regulator, TetR family
+152	Blon_0160	DNA polymerase III, subunits gamma and tau
+153	Blon_0161	DNA replication and repair protein RecR
+154	Blon_0162	sortase family protein
+155	Blon_0163	narrowly conserved hypothetical protein
+156	Blon_0164	aspartate kinase (EC 2.7.2.4)
+157	Blon_0165	aspartate kinase (EC 2.7.2.4)
+158	Blon_0166	aspartate semialdehyde dehydrogenase (EC 1.2.1.11)
+159	Blon_0167	hypothetical protein
+160	Blon_0168	metallophosphoesterase
+161	Blon_0169	hypothetical protein
+162	Blon_0170	2-isopropylmalate synthase
+163	Blon_0171	glycosyl transferase, family 51
+164	Blon_0172	phosphoesterase, PA-phosphatase related
+165	Blon_0173	DNA topoisomerase I (EC 5.99.1.2)
+166	Blon_0174	thymidylate kinase (EC 2.7.4.9)
+167	Blon_0175	DNA polymerase III, delta prime subunit (EC 2.7.7.7)
+168	Blon_0176	regulatory protein, LacI
+169	Blon_0177	Phosphocarrier protein HPr
+170	Blon_0178	phosphoenolpyruvate--protein phosphotransferase (EC 2.7.3.9)
+171	Blon_0179	hypothetical protein
+172	Blon_0180	dipeptidase A. Cysteine peptidase. MEROPS family C69
+173	Blon_0181	Formate-tetrahydrofolate ligase (EC 6.3.4.3)
+174	Blon_0182	hypothetical protein
+175	Blon_0183	GtrA family protein
+176	Blon_0184	putative transcriptional regulator
+177	Blon_0185	major facilitator superfamily MFS_1
+178	Blon_0186	Phosphoglycerate mutase
+179	Blon_0187	hypothetical protein
+180	Blon_0188	Aldose 1-epimerase
+181	Blon_0189	protein of unknown function DUF805
+182	Blon_0190	conserved hypothetical phage AbiD protein
+183	Blon_0191	glutamyl-tRNA synthetase (EC 6.1.1.17)
+184	Blon_0192	hypothetical protein
+185	Blon_0193	protein of unknown function DUF1275
+186	Blon_0194	putative transcriptional regulator
+187	Blon_0195	conserved hypothetical membrane protein with unknown function
+188	Blon_0196	iron permease FTR1
+189	Blon_0197	narrowly conserved hypothetical protein
+190	Blon_0198	narrowly conserved hypothetical membrane protein
+191	Blon_0199	protein of unknown function DUF214
+192	Blon_0200	protein of unknown function DUF214
+193	Blon_0201	ABC transporter related
+194	Blon_0202	hypothetical protein
+195	Blon_0203	transcriptional regulator, TetR family
+196	Blon_0204	putative membrane protein
+197	Blon_0205	ABC-2 type transporter
+198	Blon_0206	protein of unknown function DUF1113
+199	Blon_0207	6-phosphogluconate dehydrogenase (decarboxylating) (EC 1.1.1.44)
+200	Blon_0208	6-phosphogluconolactonase (EC 3.1.1.31)
+201	Blon_0209	narrowly conserved hypothetical protein
+202	Blon_0210	glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49)
+203	Blon_0211	hypothetical protein
+204	Blon_0212	hypothetical protein
+205	Blon_0213	hypothetical protein
+206	Blon_0214	major facilitator superfamily MFS_1
+207	Blon_0215	two component transcriptional regulator, LuxR family
+208	Blon_0216	hypothetical protein
+209	Blon_0217	hypothetical protein
+210	Blon_0218	peptidase U34, dipeptidase
+211	Blon_0219	glycosyl transferase, family 2
+212	Blon_0220	transcriptional regulator, TetR family
+213	Blon_0221	hypothetical protein
+214	Blon_0222	signal recognition particle-docking protein FtsY
+215	Blon_0223	ammonium transporter (TC 1.A.11)
+216	Blon_0224	nitrogen regulatory protein P-II family
+217	Blon_0225	(Protein-PII) uridylyltransferase
+218	Blon_0226	MATE efflux family protein
+219	Blon_0227	primary replicative DNA helicase (EC 3.6.1.-)
+220	Blon_0228	domain of unknown function DUF1727
+221	Blon_0229	CobB/CobQ domain protein glutamine amidotransferase
+222	Blon_0230	hypothetical protein
+223	Blon_0231	ABC-1 domain protein
+224	Blon_0232	alanine racemase domain protein
+225	Blon_0233	ribose-phosphate pyrophosphokinase
+226	Blon_0234	SSU ribosomal protein S6P
+227	Blon_0235	single-strand binding protein
+228	Blon_0236	SSU ribosomal protein S18P
+229	Blon_0237	LSU ribosomal protein L9P
+230	Blon_0238	hypothetical protein
+231	Blon_0239	hypothetical protein
+232	Blon_0240	ABC transporter related
+233	Blon_0241	ABC-2 type transporter
+234	Blon_0242	ABC transporter related
+235	Blon_0243	two component transcriptional regulator, LuxR family
+236	Blon_0244	Signal transduction histidine kinase-like protein
+237	Blon_0245	major facilitator superfamily MFS_1
+238	Blon_0247	major facilitator superfamily MFS_1
+239	Blon_0248	Alpha-L-fucosidase
+240	Blon_0249	hypothetical protein
+241	Blon_0250	MIP family channel protein
+242	Blon_0251	copper-translocating P-type ATPase
+243	Blon_0252	protein of unknown function DUF156
+244	Blon_0253	protein of unknown function DUF195
+245	Blon_0254	hypothetical protein
+246	Blon_0255	tRNA/rRNA methyltransferase (SpoU)
+247	Blon_0256	hypothetical protein
+248	Blon_0257	hypothetical protein
+249	Blon_0258	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (EC 6.3.5.-)
+250	Blon_0259	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)
+251	Blon_0260	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (EC 6.3.5.-)
+252	Blon_0261	GCN5-related N-acetyltransferase
+253	Blon_0262	hypothetical protein
+254	Blon_0263	histidine acid phosphatase
+255	Blon_0264	UDP-galactopyranose mutase (EC 5.4.99.9)
+256	Blon_0265	transcription termination factor Rho
+257	Blon_0266	transcriptional regulator, LacI family
+258	Blon_0267	sugar (Glycoside-Pentoside-Hexuronide) transporter
+259	Blon_0268	glycoside hydrolase family 2, sugar binding
+260	Blon_0270	transposase, mutator type
+261	Blon_0271	phage integrase family protein
+262	Blon_0273	chorismate mutase (EC 5.4.99.5)
+263	Blon_0274	hypothetical protein
+264	Blon_0275	valyl-tRNA synthetase (EC 6.1.1.9)
+265	Blon_0276	extracellular solute-binding protein, family 5
+266	Blon_0277	DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)/endonuclease III (EC 3.2.2.-)
+267	Blon_0278	response regulator receiver protein
+268	Blon_0279	hypothetical protein
+269	Blon_0280	protein of unknown function DUF204
+270	Blon_0281	Inorganic diphosphatase
+271	Blon_0282	alpha amylase, catalytic region
+272	Blon_0283	LPXTG-motif cell wall anchor domain protein
+273	Blon_0284	hypothetical protein
+274	Blon_0285	alpha/beta superfamily hydrolase
+275	Blon_0286	lactoylglutathione lyase (LGUL) family protein, diverged
+276	Blon_0287	hypothetical protein
+277	Blon_0288	phage integrase family protein
+278	Blon_0290	Glyoxalase/bleomycin resistance protein/dioxygenase
+279	Blon_0291	hypothetical protein
+280	Blon_0292	helix-turn-helix domain protein
+281	Blon_0293	hypothetical protein
+282	Blon_0294	hypothetical protein
+283	Blon_0295	plasmid replication protein
+284	Blon_0296	DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family
+285	Blon_0297	hypothetical protein
+286	Blon_0298	hypothetical protein
+287	Blon_0299	hypothetical protein
+288	Blon_0300	hypothetical protein
+289	Blon_0301	protein of unknown function DUF497
+290	Blon_0302	homoserine O-succinyltransferase (EC 2.3.1.46)
+291	Blon_0303	ATP synthase F0 subcomplex A subunit
+292	Blon_0304	ATP synthase F0 subcomplex C subunit
+293	Blon_0305	ATP synthase F0 subcomplex B subunit
+294	Blon_0306	ATP synthase F1 subcomplex delta subunit
+295	Blon_0307	ATP synthase F1 subcomplex alpha subunit
+296	Blon_0308	ATP synthase F1 subcomplex gamma subunit
+297	Blon_0309	ATP synthase F1, beta subunit
+298	Blon_0310	ATP synthase F1 subcomplex epsilon subunit
+299	Blon_0311	protein of unknown function DUF91
+300	Blon_0312	peptidylprolyl isomerase, FKBP-type
+301	Blon_0313	hypothetical protein
+302	Blon_0314	hypothetical protein
+303	Blon_0315	putative thioredoxin
+304	Blon_0316	adenylate cyclase
+305	Blon_0317	putative endoribonuclease L-PSP
+306	Blon_0318	phospholipid/glycerol acyltransferase
+307	Blon_0319	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))
+308	Blon_0320	D-alanine--D-alanine ligase (EC 6.3.2.4)
+309	Blon_0321	extracellular solute-binding protein, family 1
+310	Blon_0322	binding-protein-dependent transport systems inner membrane component
+311	Blon_0323	binding-protein-dependent transport systems inner membrane component
+312	Blon_0324	ABC transporter related
+313	Blon_0325	Abortive infection protein
+314	Blon_0326	MscS Mechanosensitive ion channel
+315	Blon_0327	fumarate lyase
+316	Blon_0328	transcriptional regulator, TetR family
+317	Blon_0329	hypothetical protein
+318	Blon_0330	methylated-DNA--protein-cysteine methyltransferase
+319	Blon_0331	hypothetical protein
+320	Blon_0332	hypothetical protein
+321	Blon_0334	RelB antitoxin
+322	Blon_0335	transcriptional regulator, MerR family
+323	Blon_0336	major facilitator superfamily MFS_1
+324	Blon_0337	PfkB domain protein
+325	Blon_0338	LSU ribosomal protein L28P
+326	Blon_0339	ATP-dependent DNA helicase RecG (EC 3.6.1.-)
+327	Blon_0340	LacI-family transcriptional regulator
+328	Blon_0341	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+329	Blon_0342	binding-protein-dependent transport systems inner membrane component
+330	Blon_0343	extracellular solute-binding protein, family 1
+331	Blon_0344	Mandelate racemase/muconate lactonizing enzyme, N-terminal domain protein
+332	Blon_0345	major facilitator superfamily MFS_1
+333	Blon_0346	hypothetical protein
+334	Blon_0347	hypothetical protein
+335	Blon_0348	transposase, IS4 family
+336	Blon_0349	putative methyltransferase
+337	Blon_0350	tRNA (Guanine37-N(1)-) methyltransferase (EC 2.1.1.31)
+338	Blon_0351	peptidase U32
+339	Blon_0352	protein of unknown function DUF152
+340	Blon_0353	4-diphosphocytidyl-2C-methyl-D-erythritol synthase
+341	Blon_0354	Pyroglutamyl-peptidase I
+342	Blon_0355	hypothetical protein
+343	Blon_0356	Bleomycin hydrolase
+344	Blon_0357	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)
+345	Blon_0358	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)
+346	Blon_0359	methylthioadenosine nucleosidase (EC 3.2.2.16)/adenosylhomocysteine nucleosidase (EC 3.2.2.9)
+347	Blon_0360	major facilitator superfamily MFS_1
+348	Blon_0361	histidine kinase
+349	Blon_0362	two component transcriptional regulator, winged helix family
+350	Blon_0363	phosphate ABC transporter substrate-binding protein, PhoT family (TC 3.A.1.7.1)
+351	Blon_0364	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)
+352	Blon_0365	phosphate ABC transporter membrane protein 2, PhoT family (TC 3.A.1.7.1)
+353	Blon_0366	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)
+354	Blon_0367	LemA family protein
+355	Blon_0368	hypothetical protein
+356	Blon_0372	aldo/keto reductase
+357	Blon_0373	Inosine/uridine-preferring nucleoside hydrolase
+358	Blon_0374	regulatory protein, LacI
+359	Blon_0375	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+360	Blon_0376	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+361	Blon_0377	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+362	Blon_0378	hypothetical protein
+363	Blon_0379	HipA domain protein
+364	Blon_0380	transcriptional regulator, XRE family
+365	Blon_0381	16S rRNA processing protein RimM
+366	Blon_0382	narrowly conserved hypothetical protein
+367	Blon_0383	SSU ribosomal protein S16P
+368	Blon_0384	aminotransferase, class IV
+369	Blon_0385	aminodeoxychorismate synthase, subunit I (EC 2.6.1.85)
+370	Blon_0386	diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)
+371	Blon_0387	riboflavin synthase alpha chain (EC 2.5.1.9)
+372	Blon_0388	GTP cyclohydrolase II
+373	Blon_0389	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)
+374	Blon_0390	Endonuclease/exonuclease/phosphatase
+375	Blon_0391	signal recognition particle subunit FFH/SRP54 (srp54)
+376	Blon_0392	cation efflux protein
+377	Blon_0393	cysteinyl-tRNA synthetase (EC 6.1.1.16)
+378	Blon_0394	glutamine amidotransferase class-I
+379	Blon_0395	ABC transporter related
+380	Blon_0396	PilT protein domain protein
+381	Blon_0397	hypothetical protein
+382	Blon_0398	acetolactate synthase, small subunit (EC 2.2.1.6)
+383	Blon_0399	acetolactate synthase, large subunit (EC 2.2.1.6)
+384	Blon_0400	RNAse III (EC 3.1.26.3)
+385	Blon_0401	LSU ribosomal protein L32P
+386	Blon_0402	protein of unknown function DUF177
+387	Blon_0403	hypothetical protein
+388	Blon_0404	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)
+389	Blon_0405	hypothetical protein
+390	Blon_0406	aldo/keto reductase
+391	Blon_0407	putative transcriptional regulator, MerR family
+392	Blon_0408	conserved hypothetical transmembrane protein with unknown function
+393	Blon_0409	putative nicotinate phosphoribosyltransferase
+394	Blon_0410	transcriptional regulator, Fis family
+395	Blon_0411	RNAse PH (EC 2.7.7.56)
+396	Blon_0412	Ham1 family protein
+397	Blon_0413	Methicillin resistance protein
+398	Blon_0414	Methicillin resistance protein
+399	Blon_0415	Methicillin resistance protein
+400	Blon_0416	Auxin Efflux Carrier
+401	Blon_0417	Glucose-6-phosphate isomerase
+402	Blon_0418	ABC transporter related
+403	Blon_0419	binding-protein-dependent transport systems inner membrane component
+404	Blon_0420	LSU ribosomal protein L19P
+405	Blon_0421	signal peptidase I (EC:3.4.21.89). Serine peptidase. MEROPS family S26A
+406	Blon_0422	RNase HII (EC 3.1.26.4)
+407	Blon_0423	transcriptional regulator, LacI family
+408	Blon_0425	major facilitator superfamily MFS_1
+409	Blon_0426	Alpha-L-fucosidase
+410	Blon_0427	AMP-dependent synthetase and ligase
+411	Blon_0431	sugar transporter
+412	Blon_0432	hypothetical protein
+413	Blon_0433	two component transcriptional regulator, LuxR family
+414	Blon_0434	hypothetical protein
+415	Blon_0435	hypothetical protein
+416	Blon_0436	ABC transporter related
+417	Blon_0437	hypothetical protein
+418	Blon_0438	hypothetical protein
+419	Blon_0439	transcriptional regulator, LacI family
+420	Blon_0440	Ig domain protein
+421	Blon_0441	hypothetical protein
+422	Blon_0442	aldo/keto reductase
+423	Blon_0443	narrowly conserved hypothetical protein
+424	Blon_0444	natural resistance-associated macrophage protein
+425	Blon_0445	drug resistance transporter, EmrB/QacA subfamily
+426	Blon_0446	hypothetical protein
+427	Blon_0447	DNA primase, small subunit
+428	Blon_0448	hypothetical protein
+429	Blon_0449	Integrase, catalytic region
+430	Blon_0450	hypothetical protein
+431	Blon_0451	hypothetical protein
+432	Blon_0453	hypothetical protein
+433	Blon_0454	hypothetical protein
+434	Blon_0455	hypothetical protein
+435	Blon_0456	hypothetical protein
+436	Blon_0457	hypothetical protein
+437	Blon_0458	phage integrase family protein
+438	Blon_0459	glycoside hydrolase, family 20
+439	Blon_0460	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+440	Blon_0463	two component transcriptional regulator, LuxR family
+441	Blon_0464	histidine kinase, dimerisation and phosphoacceptor region
+442	Blon_0465	hypothetical protein
+443	Blon_0466	hypothetical protein
+444	Blon_0467	protein of unknown function DUF214
+445	Blon_0468	ABC transporter related
+446	Blon_0469	Protease II-like protein
+447	Blon_0470	serine/threonine protein kinase
+448	Blon_0471	two component transcriptional regulator, LuxR family
+449	Blon_0472	histidine kinase, dimerisation and phosphoacceptor region
+450	Blon_0473	putative ABC transport system permease protein
+451	Blon_0474	ABC transporter related
+452	Blon_0475	ABC transporter related
+453	Blon_0476	ATP-binding cassette, subfamily B
+454	Blon_0477	hypothetical protein
+455	Blon_0478	asparagine synthase
+456	Blon_0479	hypothetical protein
+457	Blon_0480	ABC transporter related
+458	Blon_0481	two component transcriptional regulator, LuxR family
+459	Blon_0482	histidine kinase, dimerisation and phosphoacceptor region
+460	Blon_0483	hypothetical protein
+461	Blon_0484	protein of unknown function DUF95, transmembrane
+462	Blon_0485	hypothetical protein
+463	Blon_0486	ABC transporter related
+464	Blon_0487	hypothetical protein
+465	Blon_0488	hypothetical protein
+466	Blon_0489	phage integrase family protein
+467	Blon_0490	hypothetical protein
+468	Blon_0491	aminotransferase, class I and II
+469	Blon_0492	hypothetical protein
+470	Blon_0493	putative dehydrogenase
+471	Blon_0494	flavodoxin/nitric oxide synthase
+472	Blon_0495	major facilitator superfamily MFS_1
+473	Blon_0496	phosphoribosylglycinamide synthetase
+474	Blon_0497	hypothetical protein
+475	Blon_0498	Integrase, catalytic region
+476	Blon_0499	phage integrase family protein
+477	Blon_0500	hypothetical protein
+478	Blon_0501	two component transcriptional regulator, LuxR family
+479	Blon_0502	hypothetical protein
+480	Blon_0504	hypothetical protein
+481	Blon_0505	hypothetical protein
+482	Blon_0506	hypothetical protein
+483	Blon_0507	hypothetical protein
+484	Blon_0508	transcriptional regulator, TetR family
+485	Blon_0509	integral membrane sensor signal transduction histidine kinase
+486	Blon_0510	two component transcriptional regulator, winged helix family
+487	Blon_0511	hypothetical protein
+488	Blon_0512	hypothetical protein
+489	Blon_0513	Peptidoglycan-binding domain 1 protein
+490	Blon_0514	ABC transporter related
+491	Blon_0515	hypothetical protein
+492	Blon_0516	regulatory protein, LacI
+493	Blon_0517	ABC transporter related
+494	Blon_0518	hypothetical protein
+495	Blon_0519	hypothetical protein
+496	Blon_0520	hypothetical protein
+497	Blon_0521	Lanthionine synthetase C family protein
+498	Blon_0522	heme exporter protein CcmA
+499	Blon_0523	ABC-2 type transporter
+500	Blon_0524	LPXTG-motif cell wall anchor domain protein
+501	Blon_0525	hypothetical protein
+502	Blon_0526	helix-turn-helix domain protein
+503	Blon_0527	hypothetical protein
+504	Blon_0528	hypothetical protein
+505	Blon_0529	chromosome partitioning protein
+506	Blon_0530	chromosome partitioning protein
+507	Blon_0531	transcription factor WhiB
+508	Blon_0532	hypothetical protein
+509	Blon_0533	hypothetical protein
+510	Blon_0534	hypothetical protein
+511	Blon_0535	hypothetical protein
+512	Blon_0536	hypothetical protein
+513	Blon_0537	tRNA (guanine-N(7)-)-methyltransferase
+514	Blon_0538	UDP-galactose 4-epimerase (EC 5.1.3.2)
+515	Blon_0539	Cyclopropane-fatty-acyl-phospholipid synthase
+516	Blon_0540	lactaldehyde reductase
+517	Blon_0541	glycosyl transferase, family 2
+518	Blon_0542	protein of unknown function UPF0118
+519	Blon_0543	glycosyl transferase, family 2
+520	Blon_0544	ABC transporter related
+521	Blon_0545	conserved hypothetical transmembrane protein with unknown function
+522	Blon_0546	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+523	Blon_0547	tRNA(Ile)-lysidine synthetase
+524	Blon_0548	hypoxanthine phosphoribosyltransferase (EC 2.4.2.8)
+525	Blon_0549	membrane protease FtsH catalytic subunit (EC 3.4.24.-)
+526	Blon_0550	GTP cyclohydrolase I (EC 3.5.4.16)
+527	Blon_0551	Dihydropteroate synthase (EC 2.5.1.15)
+528	Blon_0552	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase
+529	Blon_0553	conserved hypothetical membrane protein with unknown function
+530	Blon_0554	acyl-CoA thioesterase
+531	Blon_0555	ABC transporter related
+532	Blon_0556	hypothetical protein
+533	Blon_0558	major facilitator superfamily MFS_1
+534	Blon_0559	hypothetical protein
+535	Blon_0560	ABC transporter related
+536	Blon_0561	protein of unknown function DUF214
+537	Blon_0562	transcriptional regulator, PadR family
+538	Blon_0563	transposase IS116/IS110/IS902 family protein
+539	Blon_0564	major facilitator superfamily MFS_1
+540	Blon_0565	glucokinase (EC 2.7.1.2)
+541	Blon_0567	2,5-didehydrogluconate reductase
+542	Blon_0568	formylmethionine deformylase
+543	Blon_0569	hypothetical protein
+544	Blon_0570	conserved hypothetical membrane protein possibly involved in transport
+545	Blon_0571	conserved hypothetical membrane protein in major facilitator transporter family
+546	Blon_0572	carbohydrate kinase, FGGY
+547	Blon_0573	ROK family protein
+548	Blon_0574	LSU ribosomal protein L31P
+549	Blon_0575	bacterial peptide chain release factor 1 (bRF-1)
+550	Blon_0576	modification methylase, HemK family
+551	Blon_0577	amino acid/amide ABC transporter substrate-binding protein, HAAT family (TC 3.A.1.4.-)
+552	Blon_0578	amino acid/amide ABC transporter membrane protein 1, HAAT family (TC 3.A.1.4.-)
+553	Blon_0579	amino acid/amide ABC transporter membrane protein 2, HAAT family (TC 3.A.1.4.-)
+554	Blon_0580	amino acid/amide ABC transporter ATP-binding protein 1, HAAT family (TC 3.A.1.4.-)
+555	Blon_0581	amino acid/amide ABC transporter ATP-binding protein 2, HAAT family (TC 3.A.1.4.-)
+556	Blon_0582	Sua5/YciO/YrdC/YwlC family protein
+557	Blon_0583	glycosyl transferase, family 4
+558	Blon_0584	inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205)
+559	Blon_0585	Exonuclease, RNase T and DNA polymerase III
+560	Blon_0586	AAA ATPase
+561	Blon_0588	hypothetical protein
+562	Blon_0589	prolyl-tRNA synthetase (EC 6.1.1.15)
+563	Blon_0590	single-strand binding protein
+564	Blon_0591	endothelin-converting enzyme (EC 3.4.24.71). Metallo peptidase. MEROPS family M13
+565	Blon_0592	hypothetical protein
+566	Blon_0593	methionine aminopeptidase, type I (EC 3.4.11.18)
+567	Blon_0594	citrate synthase (EC 2.3.3.1)
+568	Blon_0595	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase
+569	Blon_0596	hypothetical protein
+570	Blon_0597	SNF2-related protein
+571	Blon_0598	hypothetical protein
+572	Blon_0599	hypothetical protein
+573	Blon_0600	T/G mismatch-specific endonuclease (EC 3.1.-.-)
+574	Blon_0601	oxidoreductase domain protein
+575	Blon_0602	aminotransferase, class I and II
+576	Blon_0605	Endonuclease/exonuclease/phosphatase
+577	Blon_0606	nucleoside 2-deoxyribosyltransferase
+578	Blon_0607	AMP-dependent synthetase and ligase
+579	Blon_0608	NAD(P)H dehydrogenase (quinone)
+580	Blon_0609	hypothetical protein
+581	Blon_0610	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)
+582	Blon_0611	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)
+583	Blon_0612	ribonucleoside-triphosphate reductase class III catalytic subunit (EC 1.17.4.2)
+584	Blon_0613	ribonucleoside-triphosphate reductase class III activase subunit (EC 1.17.4.2)
+585	Blon_0614	putative CoA-substrate-specific enzyme activase
+586	Blon_0615	Resolvase, N-terminal domain protein
+587	Blon_0616	transposase, IS605 OrfB family
+588	Blon_0617	glutamate--cysteine ligase, GCS2
+589	Blon_0619	DNA polymerase, beta domain protein region
+590	Blon_0620	nucleotidyltransferase substrate binding protein, HI0074 family
+591	Blon_0621	Glucan 1,3-beta-glucosidase
+592	Blon_0622	Integrase, catalytic region
+593	Blon_0623	hypothetical protein
+594	Blon_0624	transcriptional regulator, TetR family
+595	Blon_0625	Beta-glucosidase
+596	Blon_0626	nucleoside-diphosphate-sugar epimerase and GAF domain protein
+597	Blon_0627	membrane protein
+598	Blon_0628	membrane protein
+599	Blon_0629	glycosyl transferase, group 1
+600	Blon_0630	hypothetical protein
+601	Blon_0631	membrane lipoprotein lipid attachment site
+602	Blon_0632	hypothetical protein
+603	Blon_0633	hypothetical protein
+604	Blon_0634	diguanylate cyclase/phosphodiesterase
+605	Blon_0635	ABC transporter related
+606	Blon_0636	ABC transporter related
+607	Blon_0637	transcriptional regulator, LacI family
+608	Blon_0638	Purine nucleosidase
+609	Blon_0639	major facilitator superfamily MFS_1
+610	Blon_0640	PfkB domain protein
+611	Blon_0641	transcriptional regulator, LacI family
+612	Blon_0642	transcriptional regulator, GntR family
+613	Blon_0643	hypothetical protein
+614	Blon_0644	ROK family protein
+615	Blon_0645	N-acylglucosamine-6-phosphate 2-epimerase
+616	Blon_0646	glycosyl hydrolase, BNR repeat-containing protein
+617	Blon_0647	extracellular solute-binding protein, family 5
+618	Blon_0648	binding-protein-dependent transport systems inner membrane component
+619	Blon_0649	oligopeptide/dipeptide ABC transporter, ATPase subunit
+620	Blon_0650	ABC transporter related
+621	Blon_0651	dihydrodipicolinate synthetase
+622	Blon_0652	Aspartate transaminase
+623	Blon_0653	Isoleucyl-tRNA synthetase (EC 6.1.1.5)
+624	Blon_0654	binding-protein-dependent transport systems inner membrane component
+625	Blon_0655	ABC-type spermidine/putrescine transport system permease component II-like protein
+626	Blon_0656	ABC transporter related
+627	Blon_0657	type I phosphodiesterase/nucleotide pyrophosphatase
+628	Blon_0658	putative transposase
+629	Blon_0659	IS3 family transposase
+630	Blon_0660	hypothetical protein
+631	Blon_0661	Na-galactoside symporter
+632	Blon_0662	hypothetical protein
+633	Blon_0664	transcriptional regulator, LacI family
+634	Blon_0665	transcriptional regulator, LacI family
+635	Blon_0666	6-phosphogluconate dehydrogenase (decarboxylating) (EC 1.1.1.44)/gluconate kinase, SKI family (EC 2.7.1.12)
+636	Blon_0667	D-mannonate dehydratase (EC 4.2.1.8)
+637	Blon_0668	Mannitol dehydrogenase, C-terminal domain protein
+638	Blon_0669	Glucuronate isomerase
+639	Blon_0670	hypothetical protein
+640	Blon_0671	transposase IS3/IS911 family protein
+641	Blon_0672	Integrase, catalytic region
+642	Blon_0674	putative transposase
+643	Blon_0675	IstB domain protein ATP-binding protein
+644	Blon_0676	hypothetical protein
+645	Blon_0677	hypothetical protein
+646	Blon_0679	histone family protein DNA-binding protein
+647	Blon_0680	narrowly conserved hypothetical membrane protein
+648	Blon_0681	Adenylosuccinate lyase (EC 4.3.2.2)
+649	Blon_0682	hypothetical protein
+650	Blon_0683	hypothetical protein
+651	Blon_0684	hypothetical protein
+652	Blon_0685	cell surface elastin binding protein EbpS
+653	Blon_0686	von Willebrand factor, type A
+654	Blon_0687	hypothetical protein
+655	Blon_0688	hypothetical protein
+656	Blon_0689	protein of unknown function DUF58
+657	Blon_0690	ATPase associated with various cellular activities, AAA_3
+658	Blon_0691	Uracil-DNA glycosylase (EC 3.2.2.-)
+659	Blon_0692	hypothetical protein
+660	Blon_0693	putative cold-shock DNA-binding domain protein
+661	Blon_0694	chaperonin GroEL
+662	Blon_0695	protein of unknown function DUF909
+663	Blon_0696	hypothetical protein
+664	Blon_0697	two component transcriptional regulator, winged helix family
+665	Blon_0698	integral membrane sensor signal transduction histidine kinase
+666	Blon_0699	cold-shock DNA-binding protein family
+667	Blon_0700	narrowly conserved hypothetical protein
+668	Blon_0701	UspA domain protein
+669	Blon_0702	ATPase AAA-2 domain protein
+670	Blon_0703	metallophosphoesterase
+671	Blon_0704	protein of unknown function DUF349
+672	Blon_0705	histidyl-tRNA synthetase (EC 6.1.1.21)
+673	Blon_0706	aspartyl-tRNA synthetase (EC 6.1.1.12)
+674	Blon_0707	narrowly conserved hypothetical protein
+675	Blon_0708	hypothetical protein
+676	Blon_0709	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)
+677	Blon_0710	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+678	Blon_0711	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)
+679	Blon_0712	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)
+680	Blon_0713	conserved hypothetical secreted protein
+681	Blon_0714	protein of unknown function DUF344
+682	Blon_0715	DEAD/DEAH box helicase domain protein
+683	Blon_0716	Recombination protein MgsA
+684	Blon_0717	major facilitator superfamily MFS_1
+685	Blon_0718	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding
+686	Blon_0719	TM2 domain containing protein+B7201
+687	Blon_0720	putative membrane protein
+688	Blon_0721	protein of unknown function UPF0044
+689	Blon_0722	ABC transporter related
+690	Blon_0723	narrowly conserved hypothetical protein
+691	Blon_0724	glycosyl transferase, family 2
+692	Blon_0725	Polyphosphate glucokinase (EC 2.7.1.63)
+693	Blon_0726	aminotransferase, class I and II
+694	Blon_0727	ABC transporter related
+695	Blon_0728	hypothetical protein
+696	Blon_0729	hypothetical protein
+697	Blon_0730	DNA ligase, NAD-dependent
+698	Blon_0731	protein of unknown function DUF59
+699	Blon_0732	glycoside hydrolase, family 20
+700	Blon_0733	conserved hypothetical protein 245
+701	Blon_0734	ABC transporter related
+702	Blon_0735	translation elongation factor P (EF-P)
+703	Blon_0736	NusB antitermination factor
+704	Blon_0737	carbamoyl-phosphate synthase small subunit
+705	Blon_0738	carbamoyl-phosphate synthase large subunit
+706	Blon_0739	orotidine-5'-phosphate decarboxylase (EC 4.1.1.23)
+707	Blon_0740	guanylate kinase (EC 2.7.4.8)
+708	Blon_0741	DNA polymerase III, epsilon subunit
+709	Blon_0742	small GTP-binding protein
+710	Blon_0743	phospholipase/Carboxylesterase
+711	Blon_0744	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)
+712	Blon_0745	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)
+713	Blon_0746	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)
+714	Blon_0747	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+715	Blon_0748	Cystathionine gamma-synthase
+716	Blon_0749	Glutaredoxin-like protein
+717	Blon_0750	hypothetical protein
+718	Blon_0751	NADP oxidoreductase, coenzyme F420-dependent
+719	Blon_0752	uroporphyrinogen decarboxylase
+720	Blon_0753	amino acid/amide ABC transporter substrate-binding protein, HAAT family (TC 3.A.1.4.-)
+721	Blon_0754	amino acid/amide ABC transporter membrane protein 1, HAAT family (TC 3.A.1.4.-)/amino acid/amide ABC transporter membrane protein 2, HAAT family (TC 3.A.1.4.-)
+722	Blon_0755	ABC transporter related
+723	Blon_0756	amidohydrolase
+724	Blon_0757	Cysteine synthase
+725	Blon_0758	Glutaredoxin-like protein
+726	Blon_0759	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)
+727	Blon_0760	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+728	Blon_0761	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)
+729	Blon_0762	band 7 protein
+730	Blon_0763	Integrase, catalytic region
+731	Blon_0764	ABC transporter related
+732	Blon_0765	hypothetical protein
+733	Blon_0767	Patatin
+734	Blon_0768	glutamate racemase (EC 5.1.1.3)
+735	Blon_0769	diaminopimelate epimerase (EC 5.1.1.7)
+736	Blon_0770	Vitamin K epoxide reductase
+737	Blon_0771	PHP C-terminal domain protein
+738	Blon_0772	hypothetical protein
+739	Blon_0773	hypothetical protein
+740	Blon_0774	ATP-dependent DNA helicase, Rep family
+741	Blon_0775	narrowly conserved hypothetical protein
+742	Blon_0776	peptidase S16, lon domain protein
+743	Blon_0777	narrowly conserved hypothetical protein
+744	Blon_0778	hypothetical protein
+745	Blon_0779	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)
+746	Blon_0780	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.4.3)
+747	Blon_0781	hypothetical protein
+748	Blon_0782	DNA replication and repair protein RecO
+749	Blon_0783	Undecaprenyl pyrophosphate synthetase (EC 2.5.1.31)
+750	Blon_0784	Inosine/uridine-preferring nucleoside hydrolase
+751	Blon_0785	membrane lipoprotein lipid attachment site
+752	Blon_0786	binding-protein-dependent transport systems inner membrane component
+753	Blon_0787	Glycosyl hydrolase family 32, N terminal domain protein
+754	Blon_0788	oligosaccharide/H+ symporter, major facilitator superfamily (MFS)
+755	Blon_0789	transcriptional regulator, LacI family
+756	Blon_0790	proteinase inhibitor I4, serpin
+757	Blon_0791	hypothetical protein
+758	Blon_0792	hypothetical protein
+759	Blon_0793	protein of unknown function DUF77
+760	Blon_0794	phosphomethylpyrimidine kinase
+761	Blon_0795	Vesicle-fusing ATPase
+762	Blon_0796	hydroxymethylpyrimidine synthase
+763	Blon_0797	Hydroxyethylthiazole kinase
+764	Blon_0798	glycyl-tRNA synthetase (EC 6.1.1.14)
+765	Blon_0799	putative TIM-barrel protein, nifR3 family
+766	Blon_0800	cell division protein FtsZ
+767	Blon_0801	protein of unknown function DUF552
+768	Blon_0802	narrowly conserved hypothetical protein
+769	Blon_0803	hypothetical protein
+770	Blon_0804	signal peptidase II (EC:3.4.23.36). Aspartic peptidase. MEROPS family A08
+771	Blon_0805	ribosomal large subunit pseudouridine synthase D (EC 5.4.99.-)
+772	Blon_0806	ribonuclease BN
+773	Blon_0807	hypothetical protein
+774	Blon_0808	DNA polymerase III, alpha subunit
+775	Blon_0809	ATP-dependent nuclease subunit B-like protein
+776	Blon_0810	DNA helicase/exodeoxyribonuclease V, subunit A (EC 3.1.11.5)
+777	Blon_0811	cell division protein FtsZ
+778	Blon_0812	hypothetical protein
+779	Blon_0813	hypothetical protein
+780	Blon_0814	protein of unknown function DUF262
+781	Blon_0815	protein of unknown function DUF262
+782	Blon_0816	Transposase and inactivated derivatives-like protein
+783	Blon_0817	DNA polymerase III, alpha subunit (EC 2.7.7.7)
+784	Blon_0818	narrowly conserved hypothetical protein
+785	Blon_0819	67 kDa myosin-cross-reactive antigen family protein
+786	Blon_0820	2,5-didehydrogluconate reductase
+787	Blon_0821	xylulokinase (EC 2.7.1.17)
+788	Blon_0822	acylphosphatase
+789	Blon_0823	histidinol dehydrogenase (EC 1.1.1.23)
+790	Blon_0824	histidinol phosphate aminotransferase apoenzyme (EC 2.6.1.9)
+791	Blon_0825	imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)
+792	Blon_0826	hypothetical protein
+793	Blon_0827	imidazole glycerol phosphate synthase subunit hisH (EC 2.4.2.-)
+794	Blon_0828	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16)
+795	Blon_0830	L-glutamine synthetase (EC 6.3.1.2)
+796	Blon_0831	major facilitator superfamily MFS_1
+797	Blon_0832	binding-protein-dependent transport systems inner membrane component
+798	Blon_0833	binding-protein-dependent transport systems inner membrane component
+799	Blon_0834	extracellular solute-binding protein, family 5
+800	Blon_0835	ABC transporter related
+801	Blon_0836	hypothetical protein
+802	Blon_0837	ATP-dependent helicase HrpA
+803	Blon_0838	16S rRNA m(2)G 1207 methyltransferase (EC 2.1.1.52)
+804	Blon_0839	small GTP-binding protein
+805	Blon_0840	malate dehydrogenase (NAD) (EC 1.1.1.37)
+806	Blon_0841	cation diffusion facilitator family transporter
+807	Blon_0842	SOS-response transcriptional repressor, LexA
+808	Blon_0843	Peptidoglycan-binding LysM
+809	Blon_0844	ATP-cone domain protein
+810	Blon_0845	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+811	Blon_0846	narrowly conserved hypothetical protein with helicase motifs
+812	Blon_0847	MraZ protein
+813	Blon_0848	S-adenosyl-methyltransferase MraW
+814	Blon_0849	hypothetical protein
+815	Blon_0850	Peptidoglycan glycosyltransferase
+816	Blon_0851	hypothetical protein
+817	Blon_0852	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)
+818	Blon_0853	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)
+819	Blon_0854	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)
+820	Blon_0855	cell division protein FtsW
+821	Blon_0856	UDP-N-acetylglucosamine-N-acetylmuramylpentapeptide N-acetylglucosamine transferase
+822	Blon_0857	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)
+823	Blon_0858	cell division protein FtsQ
+824	Blon_0859	transposase
+825	Blon_0862	ABC transporter related
+826	Blon_0863	ABC-2 type transporter
+827	Blon_0864	ISXoo15 transposase
+828	Blon_0865	putative transcriptional regulator
+829	Blon_0866	hypothetical protein
+830	Blon_0867	D-tyrosyl-tRNA(Tyr) deacylase
+831	Blon_0868	glycoside hydrolase, family 38
+832	Blon_0869	glycoside hydrolase, family 38
+833	Blon_0870	extracellular solute-binding protein, family 5
+834	Blon_0871	binding-protein-dependent transport systems inner membrane component
+835	Blon_0872	binding-protein-dependent transport systems inner membrane component
+836	Blon_0873	ABC transporter related
+837	Blon_0874	transcriptional regulator, LacI family
+838	Blon_0875	N-acylglucosamine 2-epimerase
+839	Blon_0876	Uncharacterised conserved protein UCP028846
+840	Blon_0877	PfkB domain protein
+841	Blon_0878	ROK family protein
+842	Blon_0879	ROK family protein
+843	Blon_0880	ROK family protein
+844	Blon_0881	glucosamine-6-phosphate isomerase
+845	Blon_0882	N-acetylglucosamine 6-phosphate deacetylase (EC 3.5.1.25)
+846	Blon_0883	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+847	Blon_0884	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+848	Blon_0885	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+849	Blon_0886	hypothetical protein
+850	Blon_0887	NUDIX hydrolase
+851	Blon_0888	peptidase M24
+852	Blon_0889	hypothetical protein
+853	Blon_0890	FolC bifunctional protein
+854	Blon_0891	condensin subunit Smc
+855	Blon_0892	hypothetical protein
+856	Blon_0893	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)
+857	Blon_0894	RNA polymerase, sigma-24 subunit, ECF subfamily
+858	Blon_0895	hypothetical protein
+859	Blon_0896	Aldose 1-epimerase
+860	Blon_0897	Aldose 1-epimerase
+861	Blon_0898	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)
+862	Blon_0899	ybaK/ebsC protein
+863	Blon_0900	glyceraldehyde-3-phosphate dehydrogenase, type I
+864	Blon_0901	thiamine pyrophosphokinase
+865	Blon_0902	bacterial translation initiation factor 3 (bIF-3)
+866	Blon_0903	LSU ribosomal protein L35P
+867	Blon_0904	LSU ribosomal protein L20P
+868	Blon_0905	tyrosine recombinase XerD subunit
+869	Blon_0906	Cobyrinic acid a,c-diamide synthase
+870	Blon_0907	condensin subunit ScpA
+871	Blon_0908	condensin subunit ScpB
+872	Blon_0909	NUDIX hydrolase
+873	Blon_0910	quinolinate synthetase (EC 2.5.1.72)
+874	Blon_0911	L-aspartate oxidase (EC 1.4.3.16)
+875	Blon_0912	nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19)
+876	Blon_0913	aminotransferase, class V
+877	Blon_0914	GTP-binding protein TypA
+878	Blon_0915	major facilitator superfamily MFS_1
+879	Blon_0916	hypothetical protein
+880	Blon_0917	hypothetical protein
+881	Blon_0918	prephenate dehydratase (EC 4.2.1.51)
+882	Blon_0919	prephenate dehydrogenase (EC 1.3.1.12)
+883	Blon_0920	hypothetical protein
+884	Blon_0921	phage integrase family protein
+885	Blon_0922	extracellular solute-binding protein, family 5
+886	Blon_0923	binding-protein-dependent transport systems inner membrane component
+887	Blon_0924	binding-protein-dependent transport systems inner membrane component
+888	Blon_0925	ABC transporter related
+889	Blon_0926	exodeoxyribonuclease III Xth
+890	Blon_0927	narrowly conserved hypothetical protein
+891	Blon_0928	narrowly conserved hypothetical transmembrane protein
+892	Blon_0929	23S rRNA m(5)U-1939 methyltransferase (EC 2.1.1.190)
+893	Blon_0930	hypothetical protein
+894	Blon_0931	ATPase, P-type (transporting), HAD superfamily, subfamily IC
+895	Blon_0932	aconitase (EC 4.2.1.3)
+896	Blon_0933	RelB antitoxin
+897	Blon_0934	PilT protein domain protein
+898	Blon_0935	protein of unknown function DUF262
+899	Blon_0936	GCN5-related N-acetyltransferase
+900	Blon_0938	protein of unknown function UPF0005
+901	Blon_0939	protein of unknown function DUF6, transmembrane
+902	Blon_0940	RelA/SpoT domain protein
+903	Blon_0941	tRNA-i(6)A37 thiotransferase enzyme MiaB
+904	Blon_0942	tRNA delta(2)-isopentenylpyrophosphate transferase
+905	Blon_0943	filamentation induced by cAMP protein Fic
+906	Blon_0944	cell divisionFtsK/SpoIIIE
+907	Blon_0945	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)
+908	Blon_0946	competence/damage-inducible protein cinA
+909	Blon_0947	helix-turn-helix domain protein
+910	Blon_0948	hypothetical protein
+911	Blon_0949	RecA protein
+912	Blon_0950	regulatory protein RecX
+913	Blon_0951	sigma 54 modulation protein/ribosomal protein S30EA
+914	Blon_0952	protein translocase subunit secA
+915	Blon_0953	lipolytic enzyme, G-D-S-L family
+916	Blon_0954	anthranilate phosphoribosyltransferase (EC 2.4.2.18)
+917	Blon_0955	conserved hypothetical transmembrane protein with unknown function
+918	Blon_0956	phospholipid/glycerol acyltransferase
+919	Blon_0957	protein kinase
+920	Blon_0958	Polyprenyl synthetase
+921	Blon_0959	hypothetical protein
+922	Blon_0960	RNA polymerase, sigma 70 subunit, RpoD family
+923	Blon_0961	DNA topoisomerase (ATP-hydrolyzing)
+924	Blon_0962	major facilitator superfamily MFS_1
+925	Blon_0963	PfkB domain protein
+926	Blon_0964	ATP dependent helicase, Lhr family
+927	Blon_0965	two component transcriptional regulator, winged helix family
+928	Blon_0966	DNA topoisomerase IV subunit A (EC 5.99.1.3)
+929	Blon_0967	type I phosphodiesterase/nucleotide pyrophosphatase
+930	Blon_0968	hypothetical protein
+931	Blon_0969	narrowly conserved hypothetical protein
+932	Blon_0970	deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)
+933	Blon_0971	(p)ppGpp synthetase I, SpoT/RelA
+934	Blon_0972	Peptidylprolyl isomerase
+935	Blon_0973	hypothetical protein
+936	Blon_0974	HipA domain protein
+937	Blon_0975	filamentation induced by cAMP protein Fic
+938	Blon_0977	Integrase, catalytic region
+939	Blon_0978	major facilitator superfamily MFS_1
+940	Blon_0980	transposase, mutator type
+941	Blon_0981	hypothetical protein
+942	Blon_0982	filamentation induced by cAMP protein Fic
+943	Blon_0983	phage integrase family protein
+944	Blon_0984	hypothetical protein
+945	Blon_0985	Abi family protein
+946	Blon_0986	hypothetical protein
+947	Blon_0987	hypothetical protein
+948	Blon_0988	major facilitator superfamily MFS_1
+949	Blon_0990	hypothetical protein
+950	Blon_0991	hypothetical protein
+951	Blon_0992	hypothetical protein
+952	Blon_0993	hypothetical protein
+953	Blon_0994	transcriptional regulator, Fis family
+954	Blon_0995	ABC transporter related
+955	Blon_0996	hypothetical protein
+956	Blon_0997	hypothetical protein
+957	Blon_0998	transposase for IS3509a
+958	Blon_0999	ABC transporter related
+959	Blon_1000	bacteriocin ABC transporter, permease protein subunit, putative
+960	Blon_1001	ABC-2 type transport system permease protein
+961	Blon_1002	hypothetical protein
+962	Blon_1003	two component transcriptional regulator, winged helix family
+963	Blon_1004	integral membrane sensor signal transduction histidine kinase
+964	Blon_1005	hypothetical protein
+965	Blon_1006	protein of unknown function DUF6, transmembrane
+966	Blon_1007	pyridoxamine 5'-phosphate oxidase-related, FMN-binding
+967	Blon_1008	hypothetical protein
+968	Blon_1009	Phosphoglycerate mutase
+969	Blon_1010	Mg2+ transporter protein, CorA family protein
+970	Blon_1011	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+971	Blon_1012	leucyl-tRNA synthetase (EC 6.1.1.4)
+972	Blon_1013	competence protein ComEA helix-hairpin-helix repeat protein
+973	Blon_1014	ComEC/Rec2-related protein
+974	Blon_1015	DNA polymerase III, delta subunit (EC 2.7.7.7)
+975	Blon_1016	protein of unknown function UPF0079
+976	Blon_1017	peptidase M22, glycoprotease
+977	Blon_1018	ribosomal-protein-alanine acetyltransferase
+978	Blon_1019	O-sialoglycoprotein endopeptidase (EC 3.4.24.57)
+979	Blon_1020	hypothetical protein
+980	Blon_1021	hypothetical protein
+981	Blon_1022	hypothetical protein
+982	Blon_1023	hypothetical protein
+983	Blon_1024	Integrase, catalytic region
+984	Blon_1025	transposase IS116/IS110/IS902 family protein
+985	Blon_1026	hypothetical protein
+986	Blon_1027	hypothetical protein
+987	Blon_1028	hypothetical protein
+988	Blon_1029	Methylase of polypeptide chain release factors-like protein
+989	Blon_1030	ABC transporter related
+990	Blon_1033	serine/threonine-protein kinase HipA
+991	Blon_1034	hypothetical protein
+992	Blon_1035	hypothetical protein
+993	Blon_1036	narrowly conserved hypothetical protein
+994	Blon_1037	hypothetical protein
+995	Blon_1038	hypothetical protein
+996	Blon_1039	Integrase, catalytic region
+997	Blon_1042	ABC transporter related
+998	Blon_1043	hypothetical protein
+999	Blon_1044	hypothetical protein
+1000	Blon_1045	hypothetical protein
+1001	Blon_1046	hypothetical protein
+1002	Blon_1047	integral membrane sensor signal transduction histidine kinase
+1003	Blon_1048	two component transcriptional regulator, LuxR family
+1004	Blon_1049	peptidase M23B
+1005	Blon_1050	hypothetical protein
+1006	Blon_1051	isocitrate dehydrogenase (NADP) (EC 1.1.1.42)
+1007	Blon_1052	IMP dehydrogenase family protein
+1008	Blon_1053	hypothetical protein
+1009	Blon_1054	AMP-dependent synthetase and ligase
+1010	Blon_1055	peptide deformylase
+1011	Blon_1056	SSU ribosomal protein S2P
+1012	Blon_1057	translation elongation factor Ts (EF-Ts)
+1013	Blon_1058	uridylate kinase (EC 2.7.4.22)
+1014	Blon_1059	ribosome recycling factor
+1015	Blon_1060	phosphatidate cytidylyltransferase
+1016	Blon_1061	23S rRNA m(2)A-2503 methyltransferase (EC 2.1.1.192)
+1017	Blon_1062	ThiJ/PfpI domain protein
+1018	Blon_1063	imidazole glycerol phosphate synthase subunit hisF (EC 4.1.3.-)
+1019	Blon_1064	phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)
+1020	Blon_1065	anthranilate synthase, component I (EC 4.1.3.27)
+1021	Blon_1066	pyroglutamyl-peptidase I (EC:3.4.19.3). Cysteine peptidase. MEROPS family C15
+1022	Blon_1067	protein of unknown function DUF979
+1023	Blon_1068	protein of unknown function DUF969
+1024	Blon_1069	ABC transporter related
+1025	Blon_1070	short-chain dehydrogenase/reductase SDR
+1026	Blon_1071	hypothetical protein
+1027	Blon_1072	narrowly conserved protein with unknown function
+1028	Blon_1073	hypothetical protein
+1029	Blon_1076	energy-coupling factor transport system substrate-specific component
+1030	Blon_1077	hypothetical protein
+1031	Blon_1078	ABC transporter related
+1032	Blon_1079	hypothetical protein
+1033	Blon_1080	hypothetical protein
+1034	Blon_1081	conserved hypothetical myosin-like protein with unknown function
+1035	Blon_1082	Excinuclease ABC subunit A
+1036	Blon_1083	Excinuclease ABC subunit C
+1037	Blon_1084	Shikimate dehydrogenase substrate binding, N-terminal domain protein
+1038	Blon_1085	Uncharacterised P-loop ATPase protein UPF0042
+1039	Blon_1086	protein of unknown function DUF199
+1040	Blon_1087	phosphoglycerate kinase (EC 2.7.2.3)
+1041	Blon_1088	triosephosphate isomerase (EC 5.3.1.1)
+1042	Blon_1089	protein translocase subunit secG
+1043	Blon_1090	malate dehydrogenase (NAD) (EC 1.1.1.37)
+1044	Blon_1091	Haloacid dehalogenase domain protein hydrolase, type 3
+1045	Blon_1092	aminotransferase, class I and II
+1046	Blon_1093	MATE efflux family protein
+1047	Blon_1094	branched-chain amino acid transport system II carrier protein
+1048	Blon_1095	transaldolase (EC 2.2.1.2)
+1049	Blon_1096	transketolase (EC 2.2.1.1)
+1050	Blon_1097	heat-inducible transcription repressor HrcA
+1051	Blon_1098	chaperone DnaJ domain protein
+1052	Blon_1099	holin, Dp-1 family
+1053	Blon_1100	glycoside hydrolase, family 25
+1054	Blon_1101	hypothetical protein
+1055	Blon_1102	hypothetical protein
+1056	Blon_1103	hypothetical protein
+1057	Blon_1104	hypothetical protein
+1058	Blon_1105	hypothetical protein
+1059	Blon_1106	hypothetical protein
+1060	Blon_1107	phage tail tape measure protein, TP901 family
+1061	Blon_1108	hypothetical protein
+1062	Blon_1109	hypothetical protein
+1063	Blon_1110	hypothetical protein
+1064	Blon_1111	hypothetical protein
+1065	Blon_1112	hypothetical protein
+1066	Blon_1113	hypothetical protein
+1067	Blon_1114	hypothetical protein
+1068	Blon_1115	hypothetical protein
+1069	Blon_1116	phage major capsid protein, HK97
+1070	Blon_1117	hypothetical protein
+1071	Blon_1118	hypothetical protein
+1072	Blon_1119	protein of unknown function DUF1483
+1073	Blon_1120	hypothetical protein
+1074	Blon_1121	hypothetical protein
+1075	Blon_1122	hypothetical protein
+1076	Blon_1123	hypothetical protein
+1077	Blon_1124	hypothetical protein
+1078	Blon_1125	hypothetical protein
+1079	Blon_1126	hypothetical protein
+1080	Blon_1127	hypothetical protein
+1081	Blon_1128	pancreatic ribonuclease
+1082	Blon_1129	hypothetical protein
+1083	Blon_1130	hypothetical protein
+1084	Blon_1131	hypothetical protein
+1085	Blon_1132	hypothetical protein
+1086	Blon_1133	hypothetical protein
+1087	Blon_1134	hypothetical protein
+1088	Blon_1135	endodeoxyribonuclease RusA
+1089	Blon_1136	hypothetical protein
+1090	Blon_1137	hypothetical protein
+1091	Blon_1138	hypothetical protein
+1092	Blon_1139	hypothetical protein
+1093	Blon_1140	hypothetical protein
+1094	Blon_1141	hypothetical protein
+1095	Blon_1142	hypothetical protein
+1096	Blon_1143	hypothetical protein
+1097	Blon_1144	hypothetical protein
+1098	Blon_1145	DNA-cytosine methyltransferase
+1099	Blon_1146	hypothetical protein
+1100	Blon_1147	hypothetical protein
+1101	Blon_1148	hypothetical protein
+1102	Blon_1149	phage integrase family protein
+1103	Blon_1150	fructosamine kinase
+1104	Blon_1151	Undecaprenyl-diphosphatase (EC 3.6.1.27)
+1105	Blon_1152	protein of unknown function DUF75
+1106	Blon_1153	threonyl-tRNA synthetase (EC 6.1.1.3)/Ser-tRNA(Thr) hydrolase (EC 3.1.1.-)
+1107	Blon_1154	histidine triad (HIT) protein
+1108	Blon_1155	protein of unknown function DUF28
+1109	Blon_1156	Holliday junction endonuclease RuvC (EC 3.1.22.4)
+1110	Blon_1157	Holliday junction DNA helicase subunit RuvA
+1111	Blon_1158	Holliday junction DNA helicase subunit RuvB
+1112	Blon_1159	protein translocase subunit yajC
+1113	Blon_1160	adenine phosphoribosyltransferase (EC 2.4.2.7)
+1114	Blon_1161	succinyl-CoA synthetase (ADP-forming) beta subunit (EC 6.2.1.5)
+1115	Blon_1162	succinyl-CoA synthetase (ADP-forming) alpha subunit (EC 6.2.1.5)
+1116	Blon_1163	hypothetical protein
+1117	Blon_1164	IMP cyclohydrolase (EC 3.5.4.10)/phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)
+1118	Blon_1165	major intrinsic protein
+1119	Blon_1166	pseudouridine synthase
+1120	Blon_1167	small GTP-binding protein
+1121	Blon_1168	transposase for IS3509a
+1122	Blon_1169	UTP--glucose-1-phosphate uridylyltransferase
+1123	Blon_1170	hypothetical protein
+1124	Blon_1171	hypothetical protein
+1125	Blon_1172	DEAD/DEAH box helicase domain protein
+1126	Blon_1173	narrowly conserved hypothetical protein
+1127	Blon_1174	Haloacid dehalogenase domain protein hydrolase
+1128	Blon_1175	hypothetical protein
+1129	Blon_1176	hypothetical protein
+1130	Blon_1177	SNF2-related protein
+1131	Blon_1178	hypothetical protein
+1132	Blon_1179	transposase, IS605 OrfB family
+1133	Blon_1180	hypothetical protein
+1134	Blon_1181	hypothetical protein
+1135	Blon_1182	LigA
+1136	Blon_1183	hypothetical protein
+1137	Blon_1184	hypothetical protein
+1138	Blon_1185	leucine rich repeat variant
+1139	Blon_1186	hypothetical protein
+1140	Blon_1187	hypothetical protein
+1141	Blon_1188	hypothetical protein
+1142	Blon_1189	hypothetical protein
+1143	Blon_1190	hypothetical protein
+1144	Blon_1191	hypothetical protein
+1145	Blon_1192	hypothetical protein
+1146	Blon_1193	hypothetical protein
+1147	Blon_1194	hypothetical protein
+1148	Blon_1195	transposase, IS605 OrfB
+1149	Blon_1197	adenine-specific methyltransferase EcoRI
+1150	Blon_1198	hypothetical protein
+1151	Blon_1199	hypothetical protein
+1152	Blon_1200	N-formylglutamate amidohydrolase
+1153	Blon_1201	hypothetical protein
+1154	Blon_1202	hypothetical protein
+1155	Blon_1203	hypothetical protein
+1156	Blon_1204	CHAP domain containing protein
+1157	Blon_1205	hypothetical protein
+1158	Blon_1206	hypothetical protein
+1159	Blon_1207	hypothetical protein
+1160	Blon_1208	hypothetical protein
+1161	Blon_1209	hypothetical protein
+1162	Blon_1210	hypothetical protein
+1163	Blon_1211	hypothetical protein
+1164	Blon_1212	hypothetical protein
+1165	Blon_1213	hypothetical protein
+1166	Blon_1214	transcriptional regulator, XRE family
+1167	Blon_1215	DNA methylase N-4/N-6 domain protein
+1168	Blon_1216	hypothetical protein
+1169	Blon_1217	hypothetical protein
+1170	Blon_1218	hypothetical protein
+1171	Blon_1219	hypothetical protein
+1172	Blon_1220	hypothetical protein
+1173	Blon_1221	C-5 cytosine-specific DNA methylase
+1174	Blon_1222	hypothetical protein
+1175	Blon_1223	hypothetical protein
+1176	Blon_1224	hypothetical protein
+1177	Blon_1225	Resolvase, N-terminal domain protein
+1178	Blon_1226	transposase, IS605 OrfB family
+1179	Blon_1227	LPXTG-motif cell wall anchor domain protein
+1180	Blon_1229	SMF family protein
+1181	Blon_1230	hypothetical protein
+1182	Blon_1231	hypothetical protein
+1183	Blon_1232	hypothetical protein
+1184	Blon_1233	hypothetical protein
+1185	Blon_1234	hypothetical protein
+1186	Blon_1235	hypothetical protein
+1187	Blon_1236	hypothetical protein
+1188	Blon_1237	Exonuclease, RNase T and DNA polymerase III
+1189	Blon_1238	transcriptional regulator, XRE family
+1190	Blon_1239	AAA ATPase
+1191	Blon_1240	hypothetical protein
+1192	Blon_1241	transposase IS116/IS110/IS902 family protein
+1193	Blon_1242	hypothetical protein
+1194	Blon_1243	hypothetical protein
+1195	Blon_1244	hypothetical protein
+1196	Blon_1245	hypothetical protein
+1197	Blon_1246	CHAP domain containing protein
+1198	Blon_1247	hypothetical protein
+1199	Blon_1248	hypothetical protein
+1200	Blon_1249	DNA polymerase III, beta subunit
+1201	Blon_1250	hypothetical protein
+1202	Blon_1251	hypothetical protein
+1203	Blon_1252	hypothetical protein
+1204	Blon_1253	hypothetical protein
+1205	Blon_1254	hypothetical protein
+1206	Blon_1255	hypothetical protein
+1207	Blon_1256	hypothetical protein
+1208	Blon_1257	hypothetical protein
+1209	Blon_1258	cell divisionFtsK/SpoIIIE
+1210	Blon_1259	Allergen V5/Tpx-1 family protein
+1211	Blon_1260	hypothetical protein
+1212	Blon_1261	conserved repeat domain protein
+1213	Blon_1262	hypothetical protein
+1214	Blon_1263	Helicase superfamily 3
+1215	Blon_1264	hypothetical protein
+1216	Blon_1265	preprotein translocase, SecE subunit
+1217	Blon_1266	protein translocase subunit secG
+1218	Blon_1267	hypothetical protein
+1219	Blon_1268	hypothetical protein
+1220	Blon_1269	transcription factor WhiB
+1221	Blon_1270	hypothetical protein
+1222	Blon_1271	hypothetical protein
+1223	Blon_1272	hypothetical protein
+1224	Blon_1273	hypothetical protein
+1225	Blon_1274	hypothetical protein
+1226	Blon_1275	hypothetical protein
+1227	Blon_1276	hypothetical protein
+1228	Blon_1277	hypothetical protein
+1229	Blon_1278	hypothetical protein
+1230	Blon_1279	hypothetical protein
+1231	Blon_1280	peptidase C60, sortase A and B
+1232	Blon_1281	hypothetical protein
+1233	Blon_1282	hypothetical protein
+1234	Blon_1283	hypothetical protein
+1235	Blon_1284	hypothetical protein
+1236	Blon_1285	hypothetical protein
+1237	Blon_1286	hypothetical protein
+1238	Blon_1287	hypothetical protein
+1239	Blon_1288	metallophosphoesterase
+1240	Blon_1289	hypothetical protein
+1241	Blon_1290	hypothetical protein
+1242	Blon_1291	hypothetical protein
+1243	Blon_1292	hypothetical protein
+1244	Blon_1293	hypothetical protein
+1245	Blon_1294	hypothetical protein
+1246	Blon_1295	hypothetical protein
+1247	Blon_1296	hypothetical protein
+1248	Blon_1297	hypothetical protein
+1249	Blon_1298	hypothetical protein
+1250	Blon_1299	hypothetical protein
+1251	Blon_1300	hypothetical protein
+1252	Blon_1301	hypothetical protein
+1253	Blon_1302	hypothetical protein
+1254	Blon_1303	Methicillin resistance protein
+1255	Blon_1304	hypothetical protein
+1256	Blon_1305	hypothetical protein
+1257	Blon_1306	hypothetical protein
+1258	Blon_1307	transposase IS200-family protein
+1259	Blon_1308	putative transposase, IS891/IS1136/IS1341 family
+1260	Blon_1309	hypothetical protein
+1261	Blon_1310	hypothetical protein
+1262	Blon_1311	hypothetical protein
+1263	Blon_1312	hypothetical protein
+1264	Blon_1313	hypothetical protein
+1265	Blon_1314	hypothetical protein
+1266	Blon_1315	transposase, IS605 OrfB family
+1267	Blon_1316	hypothetical protein
+1268	Blon_1317	hypothetical protein
+1269	Blon_1318	hypothetical protein
+1270	Blon_1319	hypothetical protein
+1271	Blon_1320	hypothetical protein
+1272	Blon_1321	hypothetical protein
+1273	Blon_1322	hypothetical protein
+1274	Blon_1323	hypothetical protein
+1275	Blon_1324	putative DNA methyltransferase
+1276	Blon_1325	hypothetical protein
+1277	Blon_1326	hypothetical protein
+1278	Blon_1327	hypothetical protein
+1279	Blon_1328	hypothetical protein
+1280	Blon_1329	hypothetical protein
+1281	Blon_1330	hypothetical protein
+1282	Blon_1331	hypothetical protein
+1283	Blon_1332	hypothetical protein
+1284	Blon_1333	hypothetical protein
+1285	Blon_1334	hypothetical protein
+1286	Blon_1335	hypothetical protein
+1287	Blon_1336	hypothetical protein
+1288	Blon_1337	hypothetical protein
+1289	Blon_1338	putative transcriptional regulator, XRE family
+1290	Blon_1339	hypothetical protein
+1291	Blon_1340	hypothetical protein
+1292	Blon_1341	hypothetical protein
+1293	Blon_1342	hypothetical protein
+1294	Blon_1343	hypothetical protein
+1295	Blon_1344	hypothetical protein
+1296	Blon_1345	hypothetical protein
+1297	Blon_1346	DNA methylase N-4/N-6 domain protein
+1298	Blon_1347	hypothetical protein
+1299	Blon_1348	phage integrase family protein
+1300	Blon_1349	phage integrase family protein
+1301	Blon_1350	transposase, IS605 OrfB family
+1302	Blon_1351	hypothetical protein
+1303	Blon_1352	hypothetical protein
+1304	Blon_1353	HipA domain protein
+1305	Blon_1354	hypothetical protein
+1306	Blon_1355	hypothetical protein
+1307	Blon_1356	Integrase, catalytic region
+1308	Blon_1357	ABC transporter related
+1309	Blon_1358	protein of unknown function DUF214
+1310	Blon_1359	hypothetical protein
+1311	Blon_1360	putative transcriptional regulator, MerR family
+1312	Blon_1361	FHA domain containing protein
+1313	Blon_1362	protein of unknown function DUF881
+1314	Blon_1363	protein of unknown function DUF1290
+1315	Blon_1364	protein of unknown function DUF881
+1316	Blon_1365	CDP-alcohol phosphatidyltransferase
+1317	Blon_1366	ATP phosphoribosyltransferase (homohexameric) (EC 2.4.2.17)
+1318	Blon_1367	phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)
+1319	Blon_1368	ribulose-5-phosphate 3-epimerase (EC 5.1.3.1)
+1320	Blon_1369	Prolipoprotein diacylglyceryl transferase
+1321	Blon_1370	tryptophan synthase, alpha chain (EC 4.2.1.20)
+1322	Blon_1371	indole-3-glycerol phosphate synthase (EC 4.1.1.48)
+1323	Blon_1372	protein of unknown function DUF159
+1324	Blon_1373	Endonuclease IV (EC 3.1.21.-)
+1325	Blon_1374	S-methylmethionine:proton symporter, AAT family (TC 2.A.3.1.10)
+1326	Blon_1375	conserved hypothetical membrane protein with unknown function
+1327	Blon_1376	VanZ family protein
+1328	Blon_1377	Selenocysteine lyase-like protein
+1329	Blon_1378	GCN5-related N-acetyltransferase
+1330	Blon_1379	hypothetical protein
+1331	Blon_1380	GCN5-related N-acetyltransferase
+1332	Blon_1381	ISXoo11 transposase
+1333	Blon_1383	SSS sodium solute transporter superfamily
+1334	Blon_1384	hypothetical protein
+1335	Blon_1385	hypothetical protein
+1336	Blon_1386	major facilitator superfamily MFS_1
+1337	Blon_1387	tRNA pseudouridine13 synthase
+1338	Blon_1388	hypothetical protein
+1339	Blon_1389	hypothetical protein
+1340	Blon_1390	protein of unknown function DUF1526
+1341	Blon_1391	hypothetical protein
+1342	Blon_1392	Signal transduction histidine kinase-like protein
+1343	Blon_1394	hypothetical protein
+1344	Blon_1395	hypothetical protein
+1345	Blon_1396	ABC transporter related
+1346	Blon_1397	protein of unknown function DUF214
+1347	Blon_1398	addiction module antitoxin, RelB/DinJ family
+1348	Blon_1399	addiction module toxin, RelE/StbE family
+1349	Blon_1400	hypothetical protein
+1350	Blon_1401	RNA polymerase, sigma-24 subunit, ECF subfamily
+1351	Blon_1402	hypothetical protein
+1352	Blon_1403	hypothetical protein
+1353	Blon_1404	ABC-2 type transport system permease protein
+1354	Blon_1405	ABC transporter related
+1355	Blon_1406	hypothetical protein
+1356	Blon_1407	hypothetical protein
+1357	Blon_1408	protein of unknown function DUF6, transmembrane
+1358	Blon_1409	hypothetical protein
+1359	Blon_1410	hypothetical protein
+1360	Blon_1411	ABC transporter related
+1361	Blon_1412	transposase IS116/IS110/IS902 family protein
+1362	Blon_1414	two component transcriptional regulator, LuxR family
+1363	Blon_1415	histidine kinase, dimerisation and phosphoacceptor region
+1364	Blon_1416	protein of unknown function DUF214
+1365	Blon_1417	ABC transporter related
+1366	Blon_1418	hypothetical protein
+1367	Blon_1419	hypothetical protein
+1368	Blon_1420	hypothetical protein
+1369	Blon_1421	putative transcriptional regulator, MerR family
+1370	Blon_1422	hypothetical protein
+1371	Blon_1423	amidohydrolase-like protein
+1372	Blon_1424	NUDIX hydrolase
+1373	Blon_1425	60 kDa inner membrane insertion protein
+1374	Blon_1426	hypothetical protein
+1375	Blon_1427	S-methylmethionine:proton symporter, AAT family (TC 2.A.3.1.10)
+1376	Blon_1428	hypothetical protein
+1377	Blon_1429	protein of unknown function DUF488
+1378	Blon_1430	hypothetical protein
+1379	Blon_1431	hypothetical protein
+1380	Blon_1432	hypothetical protein
+1381	Blon_1433	hypothetical protein
+1382	Blon_1435	Death-on-curing protein
+1383	Blon_1436	putative oxidoreductase
+1384	Blon_1437	protein of unknown function DUF488
+1385	Blon_1438	putative helicase
+1386	Blon_1439	aminotransferase, class I and II
+1387	Blon_1440	protein of unknown function UPF0031
+1388	Blon_1441	HAD-superfamily hydrolase, subfamily IA, variant 3
+1389	Blon_1443	transcriptional regulator, LysR family
+1390	Blon_1444	narrowly conserved hypothetical protein
+1391	Blon_1445	orotate phosphoribosyltransferase (EC 2.4.2.10)
+1392	Blon_1446	dihydroorotate oxidase B, catalytic subunit (EC 1.3.3.1)
+1393	Blon_1447	dihydroorotate oxidase B, electron transfer subunit (EC 1.3.3.1)
+1394	Blon_1448	orotidine-5'-phosphate decarboxylase (EC 4.1.1.23)
+1395	Blon_1449	dihydroorotase (EC 3.5.2.3)
+1396	Blon_1450	aspartate transcarbamylase regulatory subunit
+1397	Blon_1451	aspartate carbamoyltransferase (EC 2.1.3.2)
+1398	Blon_1452	(Glutamate--ammonia-ligase) adenylyltransferase
+1399	Blon_1453	Choloylglycine hydrolase
+1400	Blon_1454	5,10-methylenetetrahydrofolate reductase (NAD(P)) (EC 1.5.1.20)
+1401	Blon_1455	methionine synthase (B12-independent) (EC 2.1.1.14)
+1402	Blon_1456	putative phosphohistidine phosphatase, SixA
+1403	Blon_1457	putative protein-L-isoaspartate methyltransferase
+1404	Blon_1458	phospholipase/Carboxylesterase
+1405	Blon_1459	hypothetical protein
+1406	Blon_1460	thiaminase/4-amino-5-aminomethyl-2-methylpyrimidine deaminase
+1407	Blon_1461	hypothetical protein
+1408	Blon_1463	hypothetical protein
+1409	Blon_1464	zinc finger, SWIM domain protein
+1410	Blon_1465	plasmid pRiA4b ORF-3 family protein
+1411	Blon_1466	zinc finger, SWIM domain protein
+1412	Blon_1467	hypothetical protein
+1413	Blon_1468	MazG nucleotide pyrophosphohydrolase
+1414	Blon_1469	hypothetical protein
+1415	Blon_1470	zinc finger, SWIM domain protein
+1416	Blon_1471	hypothetical protein
+1417	Blon_1472	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen
+1418	Blon_1473	hypothetical protein
+1419	Blon_1475	Cof-like hydrolase
+1420	Blon_1476	ABC transporter related
+1421	Blon_1477	glycogen synthase (ADP-glucose)
+1422	Blon_1478	hypothetical protein
+1423	Blon_1479	hypothetical protein
+1424	Blon_1480	extracellular solute-binding protein, family 5
+1425	Blon_1481	glutamate synthase (NADH) small subunit (EC 1.4.1.14)
+1426	Blon_1482	glutamate synthase (NADH) large subunit (EC 1.4.1.14)
+1427	Blon_1483	transcriptional regulator, LacI family
+1428	Blon_1484	Glycerate kinase
+1429	Blon_1485	putative oxygen-independent coproporphyrinogen III oxidase
+1430	Blon_1486	GTP-binding protein LepA
+1431	Blon_1487	SSU ribosomal protein S20P
+1432	Blon_1488	protein of unknown function UPF0126
+1433	Blon_1489	MazG nucleotide pyrophosphohydrolase
+1434	Blon_1490	phage integrase family protein
+1435	Blon_1491	hypothetical protein
+1436	Blon_1492	hypothetical protein
+1437	Blon_1493	hypothetical protein
+1438	Blon_1494	hypothetical protein
+1439	Blon_1495	hypothetical protein
+1440	Blon_1496	helix-turn-helix domain protein
+1441	Blon_1497	hypothetical protein
+1442	Blon_1498	hypothetical protein
+1443	Blon_1499	hypothetical protein
+1444	Blon_1500	hypothetical protein
+1445	Blon_1501	hypothetical protein
+1446	Blon_1502	hypothetical protein
+1447	Blon_1503	hypothetical protein
+1448	Blon_1504	hypothetical protein
+1449	Blon_1505	single-strand binding protein
+1450	Blon_1506	hypothetical protein
+1451	Blon_1507	hypothetical protein
+1452	Blon_1508	hypothetical protein
+1453	Blon_1509	hypothetical protein
+1454	Blon_1510	hypothetical protein
+1455	Blon_1511	hypothetical protein
+1456	Blon_1512	hypothetical protein
+1457	Blon_1513	hypothetical protein
+1458	Blon_1514	hypothetical protein
+1459	Blon_1515	hypothetical protein
+1460	Blon_1516	transcription factor WhiB
+1461	Blon_1517	hypothetical protein
+1462	Blon_1518	hypothetical protein
+1463	Blon_1519	hypothetical protein
+1464	Blon_1520	hypothetical protein
+1465	Blon_1521	hypothetical protein
+1466	Blon_1522	hypothetical protein
+1467	Blon_1523	hypothetical protein
+1468	Blon_1524	hypothetical protein
+1469	Blon_1525	hypothetical protein
+1470	Blon_1526	DNA-cytosine methyltransferase
+1471	Blon_1528	phage antirepressor protein
+1472	Blon_1529	hypothetical protein
+1473	Blon_1530	hypothetical protein
+1474	Blon_1532	hypothetical protein
+1475	Blon_1533	hypothetical protein
+1476	Blon_1534	hypothetical protein
+1477	Blon_1535	hypothetical protein
+1478	Blon_1536	hypothetical protein
+1479	Blon_1537	hypothetical protein
+1480	Blon_1538	addiction module antitoxin, RelB/DinJ family
+1481	Blon_1539	hypothetical protein
+1482	Blon_1540	hypothetical protein
+1483	Blon_1541	hypothetical protein
+1484	Blon_1542	hypothetical protein
+1485	Blon_1543	hypothetical protein
+1486	Blon_1544	hypothetical protein
+1487	Blon_1545	Cpl-7 lysozyme, C-terminal domain protein
+1488	Blon_1546	HNH endonuclease
+1489	Blon_1547	hypothetical protein
+1490	Blon_1548	hypothetical protein
+1491	Blon_1549	hypothetical protein
+1492	Blon_1550	hypothetical protein
+1493	Blon_1551	hypothetical protein
+1494	Blon_1552	hypothetical protein
+1495	Blon_1553	hypothetical protein
+1496	Blon_1554	hypothetical protein
+1497	Blon_1555	hypothetical protein
+1498	Blon_1556	hypothetical protein
+1499	Blon_1557	hypothetical protein
+1500	Blon_1558	hypothetical protein
+1501	Blon_1559	hypothetical protein
+1502	Blon_1560	hypothetical protein
+1503	Blon_1561	hypothetical protein
+1504	Blon_1562	hypothetical protein
+1505	Blon_1563	Fibronectin, type III domain protein
+1506	Blon_1564	hypothetical protein
+1507	Blon_1565	hypothetical protein
+1508	Blon_1566	hypothetical protein
+1509	Blon_1567	transposase IS116/IS110/IS902 family protein
+1510	Blon_1568	hypothetical protein
+1511	Blon_1569	hypothetical protein
+1512	Blon_1570	hypothetical protein
+1513	Blon_1571	glycoside hydrolase, family 25
+1514	Blon_1572	holin, Dp-1 family
+1515	Blon_1573	hypothetical protein
+1516	Blon_1574	branched chain amino acid aminotransferase apoenzyme (EC 2.6.1.42)
+1517	Blon_1575	LSU ribosomal protein L25P
+1518	Blon_1576	hypothetical protein
+1519	Blon_1577	NAD(P) transhydrogenase, beta subunit
+1520	Blon_1578	NAD/NADP transhydrogenase alpha subunit-like protein
+1521	Blon_1579	alanine dehydrogenase/PNT domain protein
+1522	Blon_1580	AMP-dependent synthetase and ligase
+1523	Blon_1581	GTP-binding protein Era
+1524	Blon_1582	CBS domain containing protein
+1525	Blon_1583	protein of unknown function UPF0054
+1526	Blon_1584	PhoH family protein
+1527	Blon_1585	histidine triad (HIT) protein
+1528	Blon_1586	protein of unknown function DUF558
+1529	Blon_1587	tRNA/rRNA methyltransferase (SpoU)
+1530	Blon_1588	glucose-1-phosphate adenylyltransferase
+1531	Blon_1589	protein of unknown function DUF59
+1532	Blon_1590	FeS assembly scaffold apoprotein IscU
+1533	Blon_1591	cysteine desulfurase, SufS subfamily
+1534	Blon_1592	FeS assembly ATPase SufC
+1535	Blon_1593	Iron-regulated ABC transporter permease protein SufD
+1536	Blon_1594	Iron-regulated ABC transporter membrane component SufB
+1537	Blon_1595	CTP synthase (EC 6.3.4.2)
+1538	Blon_1596	3-dehydroquinate dehydratase (EC 4.2.1.10)
+1539	Blon_1597	3-dehydroquinate synthase (EC 4.2.3.4)/shikimate kinase (EC 2.7.1.71)
+1540	Blon_1598	chorismate synthase (EC 4.2.3.5)
+1541	Blon_1599	peptidase A24A, prepilin type IV
+1542	Blon_1600	aminodeoxychorismate lyase
+1543	Blon_1601	Holliday junction resolvase YqgF
+1544	Blon_1602	alanyl-tRNA synthetase (EC 6.1.1.7)
+1545	Blon_1603	hypothetical protein
+1546	Blon_1604	secreted protein
+1547	Blon_1605	Phosphoglycerate mutase
+1548	Blon_1606	RelB antitoxin
+1549	Blon_1607	transcriptional modulator of MazE/toxin, MazF
+1550	Blon_1608	transglutaminase domain protein
+1551	Blon_1609	hypothetical protein
+1552	Blon_1610	cytidine deaminase
+1553	Blon_1611	peptidase C26
+1554	Blon_1612	SSU ribosomal protein S4P
+1555	Blon_1613	ABC transporter related
+1556	Blon_1614	protein of unknown function DUF214
+1557	Blon_1615	hypothetical protein
+1558	Blon_1616	ATP-dependent DNA helicase, Rep family
+1559	Blon_1617	xanthine phosphoribosyltransferase
+1560	Blon_1618	Xanthine/uracil/vitamin C permease
+1561	Blon_1619	helix-turn-helix domain protein
+1562	Blon_1620	narrowly conserved hypothetical protein
+1563	Blon_1621	Glyoxalase/bleomycin resistance protein/dioxygenase
+1564	Blon_1622	isochorismatase hydrolase
+1565	Blon_1623	peptidase S51, dipeptidase E
+1566	Blon_1624	hypothetical protein
+1567	Blon_1625	hypothetical protein
+1568	Blon_1626	DNA binding domain, excisionase family
+1569	Blon_1627	hypothetical protein
+1570	Blon_1628	putative transcriptional regulator
+1571	Blon_1629	ABC-2 type transporter
+1572	Blon_1630	hypothetical protein
+1573	Blon_1631	ABC transporter related
+1574	Blon_1632	histidine kinase, dimerisation and phosphoacceptor region
+1575	Blon_1633	two component transcriptional regulator, LuxR family
+1576	Blon_1634	protein of unknown function DUF47
+1577	Blon_1635	phosphate transporter
+1578	Blon_1636	alpha amylase, catalytic region
+1579	Blon_1640	DEAD/DEAH box helicase domain protein
+1580	Blon_1641	uracil-xanthine permease
+1581	Blon_1642	Phosphoglycerate mutase
+1582	Blon_1643	hypothetical protein
+1583	Blon_1644	major facilitator superfamily MFS_1
+1584	Blon_1645	Glyoxalase/bleomycin resistance protein/dioxygenase
+1585	Blon_1646	protein of unknown function DUF81
+1586	Blon_1647	family M20D unassigned peptidase
+1587	Blon_1648	ferrous iron transport protein B
+1588	Blon_1649	FeoA family protein
+1589	Blon_1650	drug resistance transporter, EmrB/QacA subfamily
+1590	Blon_1651	hypothetical protein
+1591	Blon_1652	hypothetical protein
+1592	Blon_1653	holin, Dp-1 family
+1593	Blon_1654	glycoside hydrolase, family 25
+1594	Blon_1655	hypothetical protein
+1595	Blon_1656	hypothetical protein
+1596	Blon_1657	hypothetical protein
+1597	Blon_1658	HNH nuclease
+1598	Blon_1659	hypothetical protein
+1599	Blon_1660	hypothetical protein
+1600	Blon_1661	hypothetical protein
+1601	Blon_1662	Integrase, catalytic region
+1602	Blon_1663	ABC transporter related
+1603	Blon_1664	GCN5-related N-acetyltransferase
+1604	Blon_1665	Haloacid dehalogenase domain protein hydrolase
+1605	Blon_1666	hypothetical protein
+1606	Blon_1667	hypothetical protein
+1607	Blon_1668	hypothetical protein
+1608	Blon_1669	hypothetical protein
+1609	Blon_1670	hypothetical protein
+1610	Blon_1671	hypothetical protein
+1611	Blon_1672	IstB domain protein ATP-binding protein
+1612	Blon_1673	prophage LambdaBa04, site-specific recombinase, phage integrase family
+1613	Blon_1674	transcriptional regulator, TetR family
+1614	Blon_1675	major facilitator superfamily MFS_1
+1615	Blon_1676	hypothetical protein
+1616	Blon_1677	hypothetical protein
+1617	Blon_1678	RelB antitoxin
+1618	Blon_1679	transcriptional modulator of MazE/toxin, MazF
+1619	Blon_1680	hypothetical protein
+1620	Blon_1681	Methyltransferase type 11
+1621	Blon_1682	protein of unknown function DUF307
+1622	Blon_1683	filamentation induced by cAMP protein Fic
+1623	Blon_1684	hypothetical protein
+1624	Blon_1685	ABC transporter related
+1625	Blon_1686	MATE efflux family protein
+1626	Blon_1687	TfoX, C-terminal domain protein
+1627	Blon_1688	transcriptional regulator, AraC family
+1628	Blon_1689	GTP-binding protein YchF
+1629	Blon_1690	pyrroline-5-carboxylate reductase
+1630	Blon_1691	prolyl aminopeptidase 2. Serine peptidase. MEROPS family S33
+1631	Blon_1692	integral membrane sensor signal transduction histidine kinase
+1632	Blon_1693	two component transcriptional regulator, LuxR family
+1633	Blon_1694	protein of unknown function DUF214
+1634	Blon_1695	ABC transporter related
+1635	Blon_1696	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)
+1636	Blon_1697	Phosphomethylpyrimidine kinase type-1
+1637	Blon_1698	protein of unknown function UPF0102
+1638	Blon_1699	Mg chelatase, subunit ChlI
+1639	Blon_1700	SMF family protein
+1640	Blon_1701	succinate dehydrogenase subunit A (EC 1.3.5.1)
+1641	Blon_1702	succinate dehydrogenase subunit B (EC 1.3.5.1)
+1642	Blon_1703	O-methyltransferase, family 3
+1643	Blon_1704	conserved hypothetical protein 730
+1644	Blon_1705	sodium/proton antiporter, NhaA family (TC 2.A.33.1.1)
+1645	Blon_1706	ATP-dependent Clp protease ATP-binding subunit ClpX (EC 3.4.21.92)
+1646	Blon_1707	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)
+1647	Blon_1708	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)
+1648	Blon_1709	hypothetical protein
+1649	Blon_1710	Cl- channel, voltage-gated family protein
+1650	Blon_1711	trigger factor
+1651	Blon_1712	3'-5' exonuclease
+1652	Blon_1713	narrowly conserved hypothetical protein
+1653	Blon_1714	pyruvate formate-lyase activating enzyme
+1654	Blon_1715	formate acetyltransferase
+1655	Blon_1716	hypothetical protein
+1656	Blon_1717	NAD+ synthetase
+1657	Blon_1718	amidohydrolase
+1658	Blon_1719	binding-protein-dependent transport systems inner membrane component
+1659	Blon_1720	ABC transporter related
+1660	Blon_1721	NLPA lipoprotein
+1661	Blon_1722	Fructose-6-phosphate phosphoketolase
+1662	Blon_1723	GMP synthase (glutamine-hydrolyzing) (EC 6.3.5.2)
+1663	Blon_1725	acyltransferase 3
+1664	Blon_1726	ribose-phosphate pyrophosphokinase
+1665	Blon_1727	UDP-N-acetylglucosamine pyrophosphorylase (EC 2.7.7.23)/glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)
+1666	Blon_1728	iojap-like protein
+1667	Blon_1729	Phosphoglycerate mutase
+1668	Blon_1730	phosphate acetyltransferase
+1669	Blon_1731	acetate kinase (EC 2.7.2.1)
+1670	Blon_1732	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)
+1671	Blon_1733	hypothetical protein
+1672	Blon_1734	hypothetical protein
+1673	Blon_1735	hypothetical protein
+1674	Blon_1736	hypothetical protein
+1675	Blon_1737	hypothetical protein
+1676	Blon_1738	hypothetical protein
+1677	Blon_1739	phage integrase family protein
+1678	Blon_1740	isoamylase
+1679	Blon_1741	NUDIX hydrolase
+1680	Blon_1742	protein of unknown function DUF34
+1681	Blon_1743	DNA polymerase I (EC 2.7.7.7)
+1682	Blon_1744	response regulator receiver and ANTAR domain protein
+1683	Blon_1745	pyruvate kinase (EC 2.7.1.40)
+1684	Blon_1746	Integral membrane protein TerC
+1685	Blon_1747	Excinuclease ABC subunit B
+1686	Blon_1748	hypothetical protein
+1687	Blon_1749	two component transcriptional regulator, LuxR family
+1688	Blon_1750	bacteriocin, lactococcin 972 family
+1689	Blon_1751	hypothetical protein
+1690	Blon_1752	ABC transporter related
+1691	Blon_1753	dephospho-CoA kinase (EC 2.7.1.24)
+1692	Blon_1754	RNA binding S1 domain protein
+1693	Blon_1755	methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)/5,10-methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)
+1694	Blon_1756	periplasmic solute binding protein
+1695	Blon_1757	ABC transporter related
+1696	Blon_1758	ABC-3 protein
+1697	Blon_1759	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)
+1698	Blon_1760	transcriptional regulator, CarD family
+1699	Blon_1761	1,4-alpha-glucan branching enzyme
+1700	Blon_1762	two component transcriptional regulator, winged helix family
+1701	Blon_1763	integral membrane sensor signal transduction histidine kinase
+1702	Blon_1764	putative prophage repressor
+1703	Blon_1765	phosphoribosyltransferase
+1704	Blon_1766	HAD-superfamily hydrolase, subfamily IIB
+1705	Blon_1767	hypothetical protein
+1706	Blon_1768	hypothetical protein
+1707	Blon_1769	narrowly conserved hypothetical protein
+1708	Blon_1770	transcription factor WhiB
+1709	Blon_1771	transcriptional attenuator, LytR family
+1710	Blon_1772	cell divisionFtsK/SpoIIIE
+1711	Blon_1773	transcription factor WhiB
+1712	Blon_1774	signal transduction histidine kinase
+1713	Blon_1775	Hly-III family protein
+1714	Blon_1776	GreA/GreB family elongation factor
+1715	Blon_1777	peptidylprolyl isomerase, FKBP-type
+1716	Blon_1778	L-serine dehydratase 1
+1717	Blon_1779	Cd efflux system component
+1718	Blon_1780	phage integrase family protein
+1719	Blon_1781	filamentation induced by cAMP protein Fic
+1720	Blon_1782	protein of unknown function DUF450
+1721	Blon_1783	hypothetical protein
+1722	Blon_1784	hypothetical protein
+1723	Blon_1785	hypothetical protein
+1724	Blon_1786	hypothetical protein
+1725	Blon_1787	hypothetical protein
+1726	Blon_1788	hypothetical protein
+1727	Blon_1789	hypothetical protein
+1728	Blon_1790	hypothetical protein
+1729	Blon_1791	single-strand binding protein
+1730	Blon_1792	parB-like partition protein
+1731	Blon_1793	hypothetical protein
+1732	Blon_1794	hypothetical protein
+1733	Blon_1795	oligoribonuclease
+1734	Blon_1796	hypothetical protein
+1735	Blon_1797	hypothetical protein
+1736	Blon_1798	hypothetical protein
+1737	Blon_1799	hypothetical protein
+1738	Blon_1800	hypothetical protein
+1739	Blon_1801	hypothetical protein
+1740	Blon_1802	hypothetical protein
+1741	Blon_1803	hypothetical protein
+1742	Blon_1804	hypothetical protein
+1743	Blon_1805	hypothetical protein
+1744	Blon_1806	hypothetical protein
+1745	Blon_1807	hypothetical protein
+1746	Blon_1808	hypothetical protein
+1747	Blon_1809	hypothetical protein
+1748	Blon_1810	hypothetical protein
+1749	Blon_1811	phage Terminase
+1750	Blon_1812	protein of unknown function DUF1483
+1751	Blon_1813	hypothetical protein
+1752	Blon_1814	hypothetical protein
+1753	Blon_1815	phage structural protein
+1754	Blon_1816	hypothetical protein
+1755	Blon_1817	hypothetical protein
+1756	Blon_1818	hypothetical protein
+1757	Blon_1819	hypothetical protein
+1758	Blon_1820	hypothetical protein
+1759	Blon_1821	prophage LambdaSa03, structural protein, putative
+1760	Blon_1822	hypothetical protein
+1761	Blon_1823	phage tape measure protein
+1762	Blon_1824	hypothetical protein
+1763	Blon_1825	Fibronectin, type III domain protein
+1764	Blon_1826	hypothetical protein
+1765	Blon_1827	hypothetical protein
+1766	Blon_1828	hypothetical protein
+1767	Blon_1829	hypothetical protein
+1768	Blon_1830	hypothetical protein
+1769	Blon_1831	glycoside hydrolase, family 25
+1770	Blon_1832	holin, Dp-1 family
+1771	Blon_1833	Ppx/GppA phosphatase
+1772	Blon_1834	protein of unknown function DUF501
+1773	Blon_1835	Septum formation initiator
+1774	Blon_1836	enolase (EC 4.2.1.11)
+1775	Blon_1837	aldo/keto reductase
+1776	Blon_1838	transcription-repair coupling factor
+1777	Blon_1839	peptidyl-tRNA hydrolase (EC 3.1.1.29)
+1778	Blon_1840	PilT protein domain protein
+1779	Blon_1841	GCN5-related N-acetyltransferase
+1780	Blon_1842	protein of unknown function UPF0182
+1781	Blon_1843	glycoside hydrolase, family 3 domain protein
+1782	Blon_1844	nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)
+1783	Blon_1845	hypothetical protein
+1784	Blon_1846	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)
+1785	Blon_1847	serine hydroxymethyltransferase (EC 2.1.2.1)
+1786	Blon_1848	threonine synthase
+1787	Blon_1849	protein of unknown function DUF1648
+1788	Blon_1850	regulatory protein GntR, HTH
+1789	Blon_1852	hypothetical protein
+1790	Blon_1853	hypothetical protein
+1791	Blon_1854	ABC transporter related
+1792	Blon_1855	transcriptional regulator, GntR family
+1793	Blon_1856	two component transcriptional regulator, LuxR family
+1794	Blon_1857	Signal transduction histidine kinase-like protein
+1795	Blon_1858	major facilitator superfamily MFS_1
+1796	Blon_1859	preQ(0) biosynthesis protein QueC
+1797	Blon_1860	HAD-superfamily hydrolase, subfamily IA, variant 3
+1798	Blon_1861	DNA replication and repair protein RecN
+1799	Blon_1862	NAD(+) kinase
+1800	Blon_1863	hypothetical protein
+1801	Blon_1864	hemolysin A
+1802	Blon_1865	HAD-superfamily hydrolase, subfamily IIA
+1803	Blon_1866	hypothetical protein
+1804	Blon_1867	tyrosyl-tRNA synthetase (EC 6.1.1.1)
+1805	Blon_1868	hypothetical protein
+1806	Blon_1869	metal dependent phosphohydrolase
+1807	Blon_1870	Rhodanese domain protein
+1808	Blon_1871	thiazole biosynthesis adenylyltransferase ThiF
+1809	Blon_1872	thiazole-phosphate synthase
+1810	Blon_1873	thiamine biosynthesis protein ThiS
+1811	Blon_1874	argininosuccinate lyase (EC 4.3.2.1)
+1812	Blon_1875	argininosuccinate synthase (EC 6.3.4.5)
+1813	Blon_1876	transcriptional regulator, ArgR family
+1814	Blon_1877	ornithine carbamoyltransferase (EC 2.1.3.3)
+1815	Blon_1878	acetylornithine and succinylornithine aminotransferase
+1816	Blon_1879	N-acetylglutamate kinase (EC 2.7.2.8)
+1817	Blon_1880	N-acetylglutamate synthase (EC 2.3.1.1)/glutamate N-acetyltransferase (EC 2.3.1.35)
+1818	Blon_1881	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)
+1819	Blon_1882	hypothetical protein
+1820	Blon_1883	phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)
+1821	Blon_1884	phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)
+1822	Blon_1885	tRNA/rRNA methyltransferase (SpoU)
+1823	Blon_1886	cobalt transport protein
+1824	Blon_1887	ABC transporter related
+1825	Blon_1888	narrowly conserved hypothetical protein
+1826	Blon_1889	peptidase M20
+1827	Blon_1890	hypothetical protein
+1828	Blon_1891	dihydrolipoamide dehydrogenase (EC 1.8.1.4)
+1829	Blon_1892	narrowly conserved hypothetical transmembrane protein
+1830	Blon_1893	L-glutamine synthetase (EC 6.3.1.2)
+1831	Blon_1895	Auxin Efflux Carrier
+1832	Blon_1896	galactoside O-acetyltransferase
+1833	Blon_1897	galactoside O-acetyltransferase
+1834	Blon_1898	transcriptional regulator, PadR family
+1835	Blon_1899	DNA-3-methyladenine glycosylase III (EC 3.2.2.-)
+1836	Blon_1900	MATE efflux family protein
+1837	Blon_1901	ABC transporter related
+1838	Blon_1902	hypothetical protein
+1839	Blon_1903	hypothetical protein
+1840	Blon_1905	Beta-glucosidase
+1841	Blon_1906	electron transport complex, RnfABCDGE type, D subunit
+1842	Blon_1907	protein of unknown function DUF303, acetylesterase putative
+1843	Blon_1908	histidine kinase
+1844	Blon_1909	Integrase, catalytic region
+1845	Blon_1910	hypothetical protein
+1846	Blon_1911	protein of unknown function DUF214
+1847	Blon_1912	ABC transporter related
+1848	Blon_1913	transcriptional regulator, TetR family
+1849	Blon_1914	transposase IS116/IS110/IS902 family protein
+1850	Blon_1915	Alcohol dehydrogenase GroES domain protein
+1851	Blon_1917	Camphor resistance CrcB protein
+1852	Blon_1918	camphor resistance protein CrcB
+1853	Blon_1919	hypothetical protein
+1854	Blon_1920	conserved hypothetical protein 698
+1855	Blon_1922	translation elongation factor 1A (EF-1A/EF-Tu)
+1856	Blon_1923	translation elongation factor 2 (EF-2/EF-G)
+1857	Blon_1924	SSU ribosomal protein S7P
+1858	Blon_1925	SSU ribosomal protein S12P
+1859	Blon_1926	hypothetical protein
+1860	Blon_1927	Abi family protein
+1861	Blon_1928	transposase IS116/IS110/IS902 family protein
+1862	Blon_1929	IstB domain protein ATP-binding protein
+1863	Blon_1930	hypothetical protein
+1864	Blon_1931	Integrase, catalytic region
+1865	Blon_1932	ABC transporter related
+1866	Blon_1933	hypothetical protein
+1867	Blon_1934	Bile acid:sodium symporter
+1868	Blon_1935	L-threonine aldolase (EC 4.1.2.5)
+1869	Blon_1936	glycosyl transferase, group 1
+1870	Blon_1937	aminotransferase, class I and II
+1871	Blon_1938	formate-dependent phosphoribosylglycinamide formyltransferase (EC 6.3.4.-)
+1872	Blon_1939	Glyoxalase/bleomycin resistance protein/dioxygenase
+1873	Blon_1940	phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+1874	Blon_1941	phosphoribosylformylglycinamidine synthase (EC 6.3.5.3)
+1875	Blon_1942	Alpha/beta hydrolase fold-3 domain protein
+1876	Blon_1943	hypothetical protein
+1877	Blon_1944	hypothetical protein
+1878	Blon_1945	G/U mismatch-specific uracil-DNA glycosylase (EC 3.2.2.-)
+1879	Blon_1946	HipA domain protein
+1880	Blon_1947	transcriptional regulator
+1881	Blon_1950	hypothetical protein
+1882	Blon_1951	UMUC domain protein DNA-repair protein
+1883	Blon_1952	adenosylhomocysteinase (EC 3.3.1.1)
+1884	Blon_1953	amidohydrolase
+1885	Blon_1954	protein of unknown function DUF985
+1886	Blon_1955	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+1887	Blon_1956	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)
+1888	Blon_1957	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)
+1889	Blon_1958	amidophosphoribosyltransferase (EC 2.4.2.14)
+1890	Blon_1959	phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)
+1891	Blon_1960	phosphoribosylamine--glycine ligase (EC 6.3.4.13)
+1892	Blon_1961	aldehyde dehydrogenase
+1893	Blon_1962	sulfatase
+1894	Blon_1963	periplasmic solute binding protein
+1895	Blon_1964	hypothetical protein
+1896	Blon_1965	ribosomal protein L28
+1897	Blon_1966	LSU ribosomal protein L33P
+1898	Blon_1967	SSU ribosomal protein S14P
+1899	Blon_1968	LSU ribosomal protein L31P
+1900	Blon_1969	LSU ribosomal protein L36P
+1901	Blon_1970	LSU ribosomal protein L32P
+1902	Blon_1971	putative high-affinity zinc ABC transporter
+1903	Blon_1972	permease
+1904	Blon_1973	hypothetical protein
+1905	Blon_1974	zinc uptake regulator, Fur family
+1906	Blon_1975	hypothetical protein
+1907	Blon_1976	hypothetical protein
+1908	Blon_1978	ABC transporter
+1909	Blon_1979	zinc uptake regulator, Fur family
+1910	Blon_1980	5-(carboxyamino)imidazole ribonucleotide synthase
+1911	Blon_1981	5-(carboxyamino)imidazole ribonucleotide mutase
+1912	Blon_1982	Alcohol dehydrogenase, zinc-binding domain protein
+1913	Blon_1983	1-deoxy-D-xylulose-5-phosphate synthase
+1914	Blon_1984	protein of unknown function DUF214
+1915	Blon_1985	hypothetical protein
+1916	Blon_1986	ABC transporter related
+1917	Blon_1987	putative transcriptional regulator
+1918	Blon_1988	transcriptional regulator, RpiR family
+1919	Blon_1989	alpha-L-arabinofuranosidase A-like protein
+1920	Blon_1990	hypothetical protein
+1921	Blon_1991	beta-aspartyl-peptidase (threonine type)
+1922	Blon_1992	transcriptional regulator, GntR family
+1923	Blon_1993	pyridoxal phosphate synthase yaaE subunit
+1924	Blon_1994	pyridoxal phosphate synthase yaaD subunit
+1925	Blon_1995	DNA primase
+1926	Blon_1996	putative deoxyguanosinetriphosphate triphosphohydrolase
+1927	Blon_1997	alanine racemase (EC 5.1.1.1)
+1928	Blon_1998	amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)
+1929	Blon_1999	hypothetical protein
+1930	Blon_2000	S-ribosylhomocysteine lyase (EC 4.4.1.21)/quorum-sensing autoinducer 2 (AI-2) synthesis protein LuxS
+1931	Blon_2001	ATP-dependent DNA helicase RecQ (EC 3.6.1.-)
+1932	Blon_2002	ErfK/YbiS/YcfS/YnhG family protein
+1933	Blon_2003	Cystathionine gamma-synthase
+1934	Blon_2004	cystathionine beta-synthase
+1935	Blon_2005	hypothetical protein
+1936	Blon_2006	major facilitator superfamily MFS_1
+1937	Blon_2007	Inosine/uridine-preferring nucleoside hydrolase
+1938	Blon_2008	ABC transporter related
+1939	Blon_2009	ABC transporter related
+1940	Blon_2010	binding-protein-dependent transport systems inner membrane component
+1941	Blon_2011	binding-protein-dependent transport systems inner membrane component
+1942	Blon_2012	extracellular solute-binding protein, family 5
+1943	Blon_2013	phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase
+1944	Blon_2014	pantothenate kinase (EC 2.7.1.33)
+1945	Blon_2015	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+1946	Blon_2016	Beta-galactosidase
+1947	Blon_2017	pseudouridine synthase
+1948	Blon_2018	glutamine--fructose-6-phosphate transaminase
+1949	Blon_2019	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)
+1950	Blon_2020	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)
+1951	Blon_2021	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+1952	Blon_2022	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)
+1953	Blon_2023	SsrA-binding protein
+1954	Blon_2024	CHAP domain containing protein
+1955	Blon_2025	cell division protein FtsX
+1956	Blon_2026	cell division ATP-binding protein FtsE
+1957	Blon_2027	bacterial peptide chain release factor 2 (bRF-2)
+1958	Blon_2028	hypothetical protein
+1959	Blon_2029	hypothetical protein
+1960	Blon_2030	Peptide deformylase
+1961	Blon_2031	phosphoglucosamine mutase (EC 5.4.2.10)
+1962	Blon_2032	Membrane alanyl aminopeptidase (EC 3.4.11.2). Metallo peptidase. MEROPS family M01
+1963	Blon_2033	beta-lactamase domain protein
+1964	Blon_2034	dihydrodipicolinate synthase (EC 4.2.1.52)
+1965	Blon_2035	dihydrodipicolinate reductase (EC 1.3.1.26)
+1966	Blon_2036	major facilitator superfamily MFS_1
+1967	Blon_2037	UvrD/REP helicase
+1968	Blon_2038	large hypothetical protein
+1969	Blon_2039	protein kinase
+1970	Blon_2042	ATPase associated with various cellular activities, AAA_3
+1971	Blon_2043	protein of unknown function DUF58
+1972	Blon_2044	transglutaminase domain protein
+1973	Blon_2046	hypothetical protein
+1974	Blon_2047	FHA domain containing protein
+1975	Blon_2048	DNA-directed RNA polymerase subunit beta' (EC 2.7.7.6)
+1976	Blon_2049	DNA-directed RNA polymerase subunit beta (EC 2.7.7.6)
+1977	Blon_2050	hypothetical protein
+1978	Blon_2051	A/G-specific DNA-adenine glycosylase (EC 3.2.2.-)
+1979	Blon_2052	tRNA/rRNA methyltransferase (SpoU)
+1980	Blon_2053	hypothetical protein
+1981	Blon_2054	protein of unknown function DUF711
+1982	Blon_2055	ACT domain-containing protein
+1983	Blon_2056	Glycosyl hydrolase family 32, N terminal domain protein
+1984	Blon_2057	transcriptional regulator, LacI family
+1985	Blon_2058	protein of unknown function DUF624
+1986	Blon_2059	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+1987	Blon_2060	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+1988	Blon_2061	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+1989	Blon_2062	galactokinase (EC 2.7.1.6)
+1990	Blon_2063	galactose-1-phosphate uridylyltransferase
+1991	Blon_2064	transcriptional regulator, DeoR family
+1992	Blon_2065	dihydroorotate oxidase A (EC 1.3.3.1)
+1993	Blon_2066	NADH:flavin oxidoreductase/NADH oxidase
+1994	Blon_2067	glycosyl transferase, family 51
+1995	Blon_2068	putative transcriptional regulator, Crp/Fnr family
+1996	Blon_2069	biotin/lipoate A/B protein ligase
+1997	Blon_2070	3-isopropylmalate dehydrogenase (EC 1.1.1.85)
+1998	Blon_2071	oligopeptidase B (EC:3.4.21.83). Serine peptidase. MEROPS family S09A
+1999	Blon_2072	narrowly conserved hypothetical protein
+2000	Blon_2073	glycine cleavage system H protein
+2001	Blon_2074	NUDIX hydrolase
+2002	Blon_2075	alpha/beta hydrolase fold protein
+2003	Blon_2076	narrowly conserved hypothetical protein
+2004	Blon_2077	thioredoxin
+2005	Blon_2078	G5 domain protein
+2006	Blon_2079	transcriptional regulator, XRE family
+2007	Blon_2080	HipA domain protein
+2008	Blon_2081	hypothetical protein
+2009	Blon_2082	lipopolysaccharide biosynthesis
+2010	Blon_2083	hypothetical protein
+2011	Blon_2085	protein of unknown function DUF1526
+2012	Blon_2086	transcriptional regulator, Fis family
+2013	Blon_2087	proline symporter
+2014	Blon_2088	ABC transporter
+2015	Blon_2089	transcriptional regulator, XRE family
+2016	Blon_2090	hypothetical protein
+2017	Blon_2091	hypothetical protein
+2018	Blon_2092	hypothetical protein
+2019	Blon_2093	hypothetical protein
+2020	Blon_2094	IS3 family transposase
+2021	Blon_2096	IstB domain protein ATP-binding protein
+2022	Blon_2097	transposase IS116/IS110/IS902 family protein
+2023	Blon_2098	IS3 family transposase
+2024	Blon_2099	polysaccharide biosynthesis protein
+2025	Blon_2100	hypothetical protein
+2026	Blon_2101	glycosyl transferase, family 2
+2027	Blon_2102	transposase, mutator type
+2028	Blon_2103	MFS permease
+2029	Blon_2104	glycosyl transferase, family 14
+2030	Blon_2105	Capsular polysaccharide synthesis
+2031	Blon_2106	glycosyl transferase, family 2
+2032	Blon_2107	glycosyl transferase, group 1
+2033	Blon_2108	hypothetical protein
+2034	Blon_2109	glycosyl transferase, family 2
+2035	Blon_2110	glycosyltransferase
+2036	Blon_2111	hypothetical protein
+2037	Blon_2112	protein tyrosine phosphatase
+2038	Blon_2113	transposase IS116/IS110/IS902 family protein
+2039	Blon_2114	Undecaprenyl-phosphate galactose phosphotransferase
+2040	Blon_2115	hypothetical protein
+2041	Blon_2116	hypothetical protein
+2042	Blon_2117	putative transcriptional regulator
+2043	Blon_2118	hypothetical protein
+2044	Blon_2119	hypothetical protein
+2045	Blon_2120	hypothetical protein
+2046	Blon_2122	metallophosphoesterase
+2047	Blon_2123	Beta-galactosidase
+2048	Blon_2124	protein of unknown function DUF245 domain protein
+2049	Blon_2125	protein of unknown function DUF797
+2050	Blon_2126	inositol monophosphatase
+2051	Blon_2127	protein of unknown function DUF245 domain protein
+2052	Blon_2128	AAA ATPase, central domain protein
+2053	Blon_2129	conserved hypothetical conserved transmembrane protein in the DedA family
+2054	Blon_2130	phosphoserine phosphatase (EC 3.1.3.3)
+2055	Blon_2131	replication restart DNA helicase PriA
+2056	Blon_2132	HAD-superfamily hydrolase, subfamily IA, variant 3
+2057	Blon_2133	methionyl-tRNA formyltransferase (EC 2.1.2.9)
+2058	Blon_2134	dihydroxyacid dehydratase (EC 4.2.1.9)
+2059	Blon_2135	DNA-directed RNA polymerase, omega subunit
+2060	Blon_2136	methionine adenosyltransferase (EC 2.5.1.6)
+2061	Blon_2137	protein of unknown function DUF214
+2062	Blon_2138	protein of unknown function DUF214
+2063	Blon_2139	ABC transporter related
+2064	Blon_2140	protein tyrosine phosphatase
+2065	Blon_2141	Dihydrofolate reductase
+2066	Blon_2142	thymidylate synthase (EC 2.1.1.45)
+2067	Blon_2143	OsmC family protein
+2068	Blon_2144	UspA domain protein
+2069	Blon_2145	NLP/P60 protein
+2070	Blon_2146	NLP/P60 protein
+2071	Blon_2147	CHAP domain containing protein
+2072	Blon_2148	phosphoserine aminotransferase apoenzyme (EC 2.6.1.52)
+2073	Blon_2149	hypothetical protein
+2074	Blon_2150	histidine kinase
+2075	Blon_2151	phosphate uptake regulator, PhoU
+2076	Blon_2152	phosphoglycerate mutase (EC 5.4.2.1)
+2077	Blon_2153	putative exodeoxyribonuclease V
+2078	Blon_2154	Resolvase helix-turn-helix domain protein
+2079	Blon_2155	Cytochrome P450-like protein
+2080	Blon_2156	AAA ATPase, central domain protein
+2081	Blon_2157	UBA/THIF-type NAD/FAD binding protein
+2082	Blon_2158	hypothetical protein
+2083	Blon_2159	major facilitator superfamily MFS_1
+2084	Blon_2160	1,4-dihydroxy-2-naphthoate prenyltransferase (EC 2.5.1.74)
+2085	Blon_2161	lysyl-tRNA synthetase, class II (EC 6.1.1.6)
+2086	Blon_2162	major facilitator superfamily MFS_1
+2087	Blon_2163	LPXTG-motif cell wall anchor domain protein
+2088	Blon_2164	Tetratricopeptide TPR_2 repeat protein
+2089	Blon_2165	hypothetical protein
+2090	Blon_2166	conserved hypothetical membrane protein possibly involved in transport
+2091	Blon_2167	hypothetical protein
+2092	Blon_2168	phage shock protein C (PspC) family protein
+2093	Blon_2169	phage shock protein C (PspC) family protein
+2094	Blon_2170	two component transcriptional regulator, LuxR family
+2095	Blon_2171	UDP-galactose 4-epimerase (EC 5.1.3.2)
+2096	Blon_2172	UTP-hexose-1-phosphate uridylyltransferase (EC 2.7.7.10)
+2097	Blon_2173	aminoglycoside phosphotransferase
+2098	Blon_2174	1,3-beta-galactosyl-N-acetylhexosamine phosphorylase
+2099	Blon_2175	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2100	Blon_2176	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2101	Blon_2177	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2102	Blon_2178	seryl-tRNA synthetase (EC 6.1.1.11)
+2103	Blon_2179	diacylglycerol kinase, catalytic region
+2104	Blon_2180	transcriptional antiterminator, BglG
+2105	Blon_2181	Integrase, catalytic region
+2106	Blon_2182	transcriptional antiterminator, BglG family
+2107	Blon_2183	PTS system IIA component, Glc family (TC 4.A.1)/PTS system IIB component, Glc family (TC 4.A.1)/PTS system IIC component, Glc family (TC 4.A.1)
+2108	Blon_2184	phosphoglucomutase, alpha-D-glucose phosphate-specific
+2109	Blon_2185	hypothetical protein
+2110	Blon_2186	narrowly conserved hypothetical protein
+2111	Blon_2187	transcriptional regulator, BadM/Rrf2 family
+2112	Blon_2188	pyridine nucleotide-disulphide oxidoreductase dimerisation region
+2113	Blon_2189	hypothetical protein
+2114	Blon_2190	ribonuclease H
+2115	Blon_2191	ribose-5-phosphate isomerase (EC 5.3.1.6)
+2116	Blon_2192	hypothetical protein
+2117	Blon_2193	hypothetical protein
+2118	Blon_2194	DNA repair protein RadA
+2119	Blon_2195	Riboflavin kinase / FAD synthetase
+2120	Blon_2196	tRNA pseudouridine synthase B (EC 4.2.1.70)
+2121	Blon_2197	ribosome-binding factor A
+2122	Blon_2198	bacterial translation initiation factor 2 (bIF-2)
+2123	Blon_2199	NusA antitermination factor
+2124	Blon_2200	hypothetical protein
+2125	Blon_2202	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2126	Blon_2203	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2127	Blon_2204	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2128	Blon_2206	hypothetical protein
+2129	Blon_2207	transglutaminase, N-terminal domain protein
+2130	Blon_2208	protein of unknown function DUF404
+2131	Blon_2209	tRNA pseudouridine synthase A
+2132	Blon_2210	LSU ribosomal protein L17P
+2133	Blon_2211	DNA-directed RNA polymerase subunit alpha (EC 2.7.7.6)
+2134	Blon_2212	SSU ribosomal protein S11P
+2135	Blon_2213	ribosomal protein S13
+2136	Blon_2214	LSU ribosomal protein L36P
+2137	Blon_2215	bacterial translation initiation factor 1 (bIF-1)
+2138	Blon_2216	Adenylate kinase (EC 2.7.4.3)
+2139	Blon_2217	protein translocase subunit secY/sec61 alpha
+2140	Blon_2218	LSU ribosomal protein L15P
+2141	Blon_2219	LSU ribosomal protein L30P
+2142	Blon_2220	SSU ribosomal protein S5P
+2143	Blon_2221	LSU ribosomal protein L18P
+2144	Blon_2222	LSU ribosomal protein L6P
+2145	Blon_2223	SSU ribosomal protein S8P
+2146	Blon_2224	ribosomal protein S14
+2147	Blon_2225	LSU ribosomal protein L5P
+2148	Blon_2226	LSU ribosomal protein L24P
+2149	Blon_2227	LSU ribosomal protein L14P
+2150	Blon_2228	SSU ribosomal protein S17P
+2151	Blon_2229	ribosomal protein L29
+2152	Blon_2230	LSU ribosomal protein L16P
+2153	Blon_2231	SSU ribosomal protein S3P
+2154	Blon_2232	ribosomal protein L22
+2155	Blon_2233	SSU ribosomal protein S19P
+2156	Blon_2234	LSU ribosomal protein L2P
+2157	Blon_2235	LSU ribosomal protein L23P
+2158	Blon_2236	LSU ribosomal protein L4P
+2159	Blon_2237	LSU ribosomal protein L3P
+2160	Blon_2238	SSU ribosomal protein S10P
+2161	Blon_2239	Acetolactate decarboxylase
+2162	Blon_2240	hypothetical protein
+2163	Blon_2241	acetaldehyde dehydrogenase (EC 1.2.1.10)/alcohol dehydrogenase AdhE (EC 1.1.1.1)
+2164	Blon_2242	ROK family protein
+2165	Blon_2243	glycogen debranching enzyme GlgX
+2166	Blon_2244	SSU ribosomal protein S9P
+2167	Blon_2245	LSU ribosomal protein L13P
+2168	Blon_2246	4-alpha-glucanotransferase
+2169	Blon_2247	leucine rich repeat variant
+2170	Blon_2248	protein of unknown function UPF0029
+2171	Blon_2249	D-isomer specific 2-hydroxyacid dehydrogenase, NAD-binding
+2172	Blon_2250	transcriptional regulator, Fis family
+2173	Blon_2251	succinyldiaminopimelate aminotransferase apoenzyme (EC 2.6.1.17)
+2174	Blon_2252	4Fe-4S ferredoxin, iron-sulfur binding domain protein
+2175	Blon_2253	amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)
+2176	Blon_2254	UDP-N-acetylmuramate dehydrogenase
+2177	Blon_2255	LSU ribosomal protein L33P
+2178	Blon_2257	chaperonin Cpn10
+2179	Blon_2258	hypothetical protein
+2180	Blon_2259	GCN5-related N-acetyltransferase
+2181	Blon_2260	5-formyltetrahydrofolate cyclo-ligase
+2182	Blon_2261	putative regulatory protein, FmdB family
+2183	Blon_2262	SAF domain protein
+2184	Blon_2263	hypothetical protein
+2185	Blon_2264	large hypothetical protein
+2186	Blon_2265	Forkhead-associated protein
+2187	Blon_2266	LSU ribosomal protein L12P
+2188	Blon_2267	LSU ribosomal protein L10P
+2189	Blon_2268	hypothetical protein
+2190	Blon_2269	Xanthine/uracil/vitamin C permease
+2191	Blon_2270	Polyribonucleotide nucleotidyltransferase
+2192	Blon_2271	SSU ribosomal protein S15P
+2193	Blon_2272	ABC transporter related
+2194	Blon_2273	ABC transporter related
+2195	Blon_2274	hypothetical protein
+2196	Blon_2275	hypothetical protein
+2197	Blon_2276	hypothetical protein
+2198	Blon_2277	two component transcriptional regulator, LuxR family
+2199	Blon_2278	hypothetical protein
+2200	Blon_2279	Integrase, catalytic region
+2201	Blon_2280	hypothetical protein
+2202	Blon_2281	hypothetical protein
+2203	Blon_2282	hypothetical protein
+2204	Blon_2283	4'-phosphopantetheinyl transferase
+2205	Blon_2284	fatty acid synthase, bacterial type (EC 2.3.1.-)
+2206	Blon_2285	Propionyl-CoA carboxylase
+2207	Blon_2286	Carbamoyl-phosphate synthase L chain, ATP-binding
+2208	Blon_2287	hypothetical protein
+2209	Blon_2288	biotin--acetyl-CoA-carboxylase ligase
+2210	Blon_2289	hypothetical protein
+2211	Blon_2290	narrowly conserved hypothetical protein
+2212	Blon_2291	transcriptional regulator, IclR family
+2213	Blon_2292	transcriptional regulator, IclR family
+2214	Blon_2293	LSU ribosomal protein L1P
+2215	Blon_2294	LSU ribosomal protein L11P
+2216	Blon_2295	transcription antitermination protein nusG
+2217	Blon_2296	preprotein translocase, SecE subunit
+2218	Blon_2297	L-aspartate aminotransferase apoenzyme (EC 2.6.1.1)
+2219	Blon_2298	glutamate 5-kinase (EC 2.7.2.11)
+2220	Blon_2299	GTP1/OBG sub domain protein
+2221	Blon_2300	LSU ribosomal protein L27P
+2222	Blon_2301	LSU ribosomal protein L21P
+2223	Blon_2302	ribonuclease, Rne/Rng family
+2224	Blon_2303	succinyldiaminopimelate desuccinylase (EC 3.5.1.18)
+2225	Blon_2304	Auxin Efflux Carrier
+2226	Blon_2305	RbsD or FucU transport
+2227	Blon_2306	amidohydrolase 2
+2228	Blon_2307	major facilitator superfamily MFS_1
+2229	Blon_2308	short-chain dehydrogenase/reductase SDR
+2230	Blon_2309	L-fuconate dehydratase (EC 4.2.1.68)
+2231	Blon_2310	transcriptional regulator, LacI family
+2232	Blon_2311	protein of unknown function DUF214
+2233	Blon_2312	ABC transporter related
+2234	Blon_2313	hypothetical protein
+2235	Blon_2314	maf protein
+2236	Blon_2315	homoserine kinase (EC 2.7.1.39)
+2237	Blon_2316	homoserine dehydrogenase (EC 1.1.1.3)
+2238	Blon_2317	diaminopimelate decarboxylase (EC 4.1.1.20)
+2239	Blon_2318	arginyl-tRNA synthetase (EC 6.1.1.19)
+2240	Blon_2319	transcriptional regulator, LysR family
+2241	Blon_2320	aminotransferase, class I and II
+2242	Blon_2321	UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)
+2243	Blon_2322	FAD-dependent pyridine nucleotide-disulphide oxidoreductase
+2244	Blon_2323	dihydroorotate dehydrogenase
+2245	Blon_2324	3-isopropylmalate dehydratase, small subunit (EC 4.2.1.33)
+2246	Blon_2325	3-isopropylmalate dehydratase, large subunit (EC 4.2.1.33)
+2247	Blon_2326	transcriptional regulator, IclR family
+2248	Blon_2327	metallophosphoesterase
+2249	Blon_2328	Polyphosphate kinase
+2250	Blon_2329	putative phosphohistidine phosphatase, SixA
+2251	Blon_2330	hypothetical protein
+2252	Blon_2331	sugar (Glycoside-Pentoside-Hexuronide) transporter
+2253	Blon_2332	PTS system IIA component, Glc family (TC 4.A.1)
+2254	Blon_2333	Integrase, catalytic region
+2255	Blon_2334	glycoside hydrolase family 2, TIM barrel
+2256	Blon_2335	alpha-L-fucosidase 2
+2257	Blon_2336	alpha-1,3/4-fucosidase, putative
+2258	Blon_2337	RbsD or FucU transport
+2259	Blon_2338	dihydrodipicolinate synthetase
+2260	Blon_2339	short-chain dehydrogenase/reductase SDR
+2261	Blon_2340	L-fuconate dehydratase (EC 4.2.1.68)
+2262	Blon_2341	protein of unknown function DUF624
+2263	Blon_2342	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2264	Blon_2343	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2265	Blon_2344	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2266	Blon_2345	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2267	Blon_2346	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2268	Blon_2347	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2269	Blon_2348	Exo-alpha-sialidase
+2270	Blon_2349	dihydrodipicolinate synthetase
+2271	Blon_2350	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2272	Blon_2351	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2273	Blon_2352	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2274	Blon_2353	hypothetical protein
+2275	Blon_2354	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2276	Blon_2355	glycoside hydrolase, family 20
+2277	Blon_2356	Haloacid dehalogenase domain protein hydrolase
+2278	Blon_2357	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2279	Blon_2358	beta-lactamase domain protein
+2280	Blon_2359	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2281	Blon_2360	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2282	Blon_2361	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
+2283	Blon_2362	protein of unknown function DUF1706
+2284	Blon_2363	uracil phosphoribosyltransferase (EC 2.4.2.9)
+2285	Blon_2364	protein of unknown function DUF163
+2286	Blon_2367	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2287	Blon_2368	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2288	Blon_2369	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2289	Blon_2370	glycerophosphoryl diester phosphodiesterase
+2290	Blon_2371	Glutamate--tRNA ligase
+2291	Blon_2372	ATPase AAA-2 domain protein
+2292	Blon_2373	GCN5-related N-acetyltransferase
+2293	Blon_2375	fumarylacetoacetate (FAA) hydrolase
+2294	Blon_2376	UDP-galactopyranose mutase
+2295	Blon_2377	narrowly conserved hypothetical protein
+2296	Blon_2378	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2297	Blon_2379	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2298	Blon_2380	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2299	Blon_2381	glycosyl transferase, family 2
+2300	Blon_2382	hypothetical protein
+2301	Blon_2383	hypothetical protein
+2302	Blon_2384	hypothetical protein
+2303	Blon_2385	glycosyl transferase, family 8
+2304	Blon_2386	ABC transporter related
+2305	Blon_2387	ABC-2 type transporter
+2306	Blon_2388	glycosyl transferase, family 8
+2307	Blon_2389	UDP-glucose/GDP-mannose dehydrogenase
+2308	Blon_2390	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)
+2309	Blon_2391	acyltransferase 3
+2310	Blon_2392	hypothetical protein
+2311	Blon_2393	protein of unknown function DUF214
+2312	Blon_2394	ABC transporter related
+2313	Blon_2395	metal dependent phosphohydrolase
+2314	Blon_2396	hypothetical protein
+2315	Blon_2397	K+ potassium transporter
+2316	Blon_2398	TatD-related deoxyribonuclease
+2317	Blon_2399	Esterase/lipase-like protein
+2318	Blon_2400	sugar transporter
+2319	Blon_2401	ROK family protein
+2320	Blon_2402	N-acylglucosamine-6-phosphate 2-epimerase
+2321	Blon_2403	transcriptional regulator, AraC family
+2322	Blon_2404	transcriptional regulator, Fis family
+2323	Blon_2406	filamentation induced by cAMP protein Fic
+2324	Blon_2407	ABC transporter related
+2325	Blon_2408	ABC transporter related
+2326	Blon_2409	ATPase
+2327	Blon_2410	hypothetical protein
+2328	Blon_2411	glycoside hydrolase, family 43
+2329	Blon_2412	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2330	Blon_2413	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2331	Blon_2414	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2332	Blon_2415	transcriptional regulator, LacI family
+2333	Blon_2416	Beta-galactosidase
+2334	Blon_2417	conserved hypothetical protein, putative ATPase
+2335	Blon_2418	major facilitator superfamily MFS_1
+2336	Blon_2419	extracellular solute-binding protein, family 5
+2337	Blon_2420	oligopeptide/dipeptide ABC transporter, ATPase subunit
+2338	Blon_2421	binding-protein-dependent transport systems inner membrane component
+2339	Blon_2422	binding-protein-dependent transport systems inner membrane component
+2340	Blon_2423	Bleomycin hydrolase
+2341	Blon_2424	hypothetical protein
+2342	Blon_2425	hypothetical protein
+2343	Blon_2426	methionyl-tRNA synthetase (EC 6.1.1.10)
+2344	Blon_2427	hypothetical protein
+2345	Blon_2428	hypothetical protein
+2346	Blon_2429	hypothetical protein
+2347	Blon_2430	Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase
+2348	Blon_2431	transposase for IS3509a
+2349	Blon_2432	thiamine biosynthesis lipoprotein
+2350	Blon_2433	ABC transporter related
+2351	Blon_2434	ABC transporter related
+2352	Blon_2435	transcriptional regulator, MarR family
+2353	Blon_2436	amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)
+2354	Blon_2437	protein of unknown function DUF214
+2355	Blon_2438	ABC transporter related
+2356	Blon_2439	amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)
+2357	Blon_2440	hypothetical protein
+2358	Blon_2441	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2359	Blon_2442	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2360	Blon_2443	transcriptional regulator, LacI family
+2361	Blon_2444	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2362	Blon_2445	Phosphoglycerate mutase
+2363	Blon_2446	hypothetical protein
+2364	Blon_2447	nitroreductase
+2365	Blon_2448	ABC-2 type transporter
+2366	Blon_2449	ABC-2 type transporter
+2367	Blon_2450	hypothetical protein
+2368	Blon_2451	Silent information regulator protein Sir2
+2369	Blon_2452	L-threonine ammonia-lyase (EC 4.3.1.19)
+2370	Blon_2453	alpha amylase, catalytic region
+2371	Blon_2454	hypothetical protein
+2372	Blon_2455	hypothetical protein
+2373	Blon_2456	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)
+2374	Blon_2457	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)
+2375	Blon_2458	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)
+2376	Blon_2459	ROK family protein
+2377	Blon_2460	glycoside hydrolase, clan GH-D
+2378	Blon_2461	tRNA-adenosine deaminase (EC 3.5.4.-)
+2379	Blon_2462	sodium/proton antiporter, CPA1 family (TC 2.A.36)
+2380	Blon_2463	phospholipase/Carboxylesterase
+2381	Blon_2464	hypothetical protein
+2382	Blon_2465	dCTP deaminase (EC 3.5.4.13)
+2383	Blon_2466	sugar-binding domain protein
+2384	Blon_2467	sodium:dicarboxylate symporter
+2385	Blon_2468	glycosyl hydrolase, family 20
+2386	Blon_2469	ATPase, P-type (transporting), HAD superfamily, subfamily IC
+2387	Blon_2470	PTS system IIA component, Glc family (TC 4.A.1)
+2388	Blon_2471	PTS system, N-acetylglucosamine-specific IIBC subunit
+2389	Blon_2472	major facilitator superfamily MFS_1
+2390	Blon_2473	RNA methyltransferase, TrmH family, group 3
+2391	Blon_2474	narrowly conserved hypothetical protein
+2392	Blon_2475	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)
+2393	Blon_2476	glycosyl transferase, family 2
+2394	Blon_2477	ribonucleoside-diphosphate reductase class Ib beta subunit (EC 1.17.4.1)
+2395	Blon_2478	ribonucleoside-diphosphate reductase class Ib alpha subunit (EC 1.17.4.1)
+2396	Blon_2479	NrdI protein
+2397	Blon_2480	ribonucleoside-diphosphate reductase class Ib glutaredoxin subunit (EC 1.17.4.1)
+2398	Blon_2481	protein kinase
+2399	Blon_2482	hypothetical protein
+2400	Blon_2483	G5 domain protein
+2401	Blon_2484	dimethyladenosine transferase (EC 2.1.1.-)
+2402	Blon_2485	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+2403	Blon_2486	hypothetical protein
+2404	Blon_2487	metal dependent phosphohydrolase
+2405	Blon_2488	NUDIX hydrolase
+2406	Blon_2489	hypothetical protein
+2407	Blon_2490	virulence factor MVIN family protein
+2408	Blon_2491	thioredoxin reductase
+2409	Blon_2492	chromosome segregation DNA-binding protein
+2410	Blon_2493	chromosome segregation ATPase
+2411	Blon_2494	16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)
+2412	Blon_2495	single-stranded nucleic acid binding R3H domain protein
+2413	Blon_2496	60 kDa inner membrane insertion protein
+2414	Blon_2497	protein of unknown function DUF37
+2415	Blon_2498	ribonuclease P protein component (EC 3.1.26.5)
+2416	Blon_0014	
+2417	Blon_0015	
+2418	Blon_0032	
+2419	Blon_0033	
+2420	Blon_0048	
+2421	Blon_0052	
+2422	Blon_0100	
+2423	Blon_0246	
+2424	Blon_0269	
+2425	Blon_0272	
+2426	Blon_0289	
+2427	Blon_0333	
+2428	Blon_0424	
+2429	Blon_0428	
+2430	Blon_0452	
+2431	Blon_0503	
+2432	Blon_0557	
+2433	Blon_0566	
+2434	Blon_0587	
+2435	Blon_0603	
+2436	Blon_0604	
+2437	Blon_0618	
+2438	Blon_0663	
+2439	Blon_0673	
+2440	Blon_0678	
+2441	Blon_0766	
+2442	Blon_0829	
+2443	Blon_0860	
+2444	Blon_0861	
+2445	Blon_0937	
+2446	Blon_0976	
+2447	Blon_0979	
+2448	Blon_0989	
+2449	Blon_1031	
+2450	Blon_1032	
+2451	Blon_1040	
+2452	Blon_1041	
+2453	Blon_1074	
+2454	Blon_1075	
+2455	Blon_1196	
+2456	Blon_1228	
+2457	Blon_1382	
+2458	Blon_1393	two component transcriptional regulator, LuxR family
+2459	Blon_1413	
+2460	Blon_1434	
+2461	Blon_1462	
+2462	Blon_1474	
+2463	Blon_1527	
+2464	Blon_1531	
+2465	Blon_1637	
+2466	Blon_1638	
+2467	Blon_1639	
+2468	Blon_1724	
+2469	Blon_1851	
+2470	Blon_1894	
+2471	Blon_1904	
+2472	Blon_1916	
+2473	Blon_1921	
+2474	Blon_1948	
+2475	Blon_1949	
+2476	Blon_1977	
+2477	Blon_2045	
+2478	Blon_2084	
+2479	Blon_2095	
+2480	Blon_2121	
+2481	Blon_2201	
+2482	Blon_2205	
+2483	Blon_2256	
+2484	Blon_2374	
+2485	Blon_2405	
